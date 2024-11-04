@@ -1,5 +1,5 @@
 ext {
-    curriculumFileName = "curriculum-template"
+    curriculumFileName = "curriculum-api"
     languages = ["DE", "EN"]
 }
 
