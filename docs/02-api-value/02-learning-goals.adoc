@@ -17,6 +17,16 @@ Teilnehmer:innen kennen und verstehen die verschiedenen Arten, wie APIs zur Wert
 
 Teilnehmer:innen verstehen die verschiedenen Optionen innerhalb und Zusammenhänge zwischen diesen Kategorien und den Wert einer übergreifenden API Strategie.
 
+[[LZ-2-3]]
+==== LZ 2-3: API Business Models verstehen
+
+Teilnehmer:innen haben ein detailliertes Verständnis der möglichen Geschäftsmodelle von APIs und einiger ausgewählter Beispiele. Ausgehend von den verschiedenen Arten der API Wertschöpfung können Teilnehmer:innen bestehende Geschäftsmodelle analysieren und mit APIs gezielt ergänzen und erweitern. [API Business Model Report]
+
+[[LZ-2-4]]
+==== LZ 2-4: APIs und Digitale Transformation verstehen
+
+Teilnehmer:innen können APIs einordnen in das grössere Bild digitaler Transformation. APIs werden als notwendiger (aber nicht hinreichender) Teil einer digitalen Transformation verstanden, und andere notwendige Aspekte sind ebenfalls bekannt.
+
 // end::DE[]
 
 // tag::EN[]
