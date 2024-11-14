@@ -1,0 +1,26 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-2-1]]
+==== LZ 2-1: Das Konzept der "API Economy" verstehen
+
+Das Konzept der "API Economy" wird in seiner gesamten Breite verstanden und Teilnehmer:innen können beurteilen, wie ihre Produkte und Aktivitäten dort eingeordnet werden können.
+
+[[LZ-2-2]]
+==== LZ 2-2: Verschiedene Arten der API Wertschöpfung kennen
+
+Teilnehmer:innen kennen und verstehen die verschiedenen Arten, wie APIs zur Wertschöpfung beitragen können. Die verschiedenen Arten können auf der obersten Ebene unterschieden werden:
+
+- Private APIs die innerhalb einer Organisationen eingesetzt werden
+- Partner APIs die mit etablierten Partnern genutzt werden
+- Public APIs die als Produkte nach aussen angeboten werden
+
+Teilnehmer:innen verstehen die verschiedenen Optionen innerhalb und Zusammenhänge zwischen diesen Kategorien und den Wert einer übergreifenden API Strategie.
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-1-1]]
+==== LG 1-1: The is the first learning goal, in category xy
+tbd.
+// end::EN[]
