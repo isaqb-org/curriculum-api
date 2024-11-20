@@ -43,13 +43,22 @@ include::01-why-apis/00-structure.adoc[{include_configuration}]
 include::02-module-block-2/00-structure.adoc[{include_configuration}]
 
 <<<
-include::03-module-block-3/00-structure.adoc[{include_configuration}]
+include::03-api-styles/00-structure.adoc[{include_configuration}]
 
 <<<
-include::04-module-block-4/00-structure.adoc[{include_configuration}]
+include::04-api-design/00-structure.adoc[{include_configuration}]
 
 <<<
-include::05-module-block-5/00-structure.adoc[{include_configuration}]
+include::05-openapi/00-structure.adoc[{include_configuration}]
+
+<<<
+include::06-api-lifecycle/00-structure.adoc[{include_configuration}]
+
+<<<
+include::07-api-security/00-structure.adoc[{include_configuration}]
+
+<<<
+include::08-api-governance/00-structure.adoc[{include_configuration}]
 
 <<<
 include::20-examples/00-examples.adoc[{include_configuration}]
