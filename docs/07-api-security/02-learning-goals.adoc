@@ -1,34 +1,25 @@
 === {learning-goals}
 
-
 // tag::DE[]
-[[LZ-5-1]]
-==== LZ 5-1: Dies ist das erste Lernziel in Kapitel 5, lorem ipsum sit dolor
+[[LZ-7-1]]
+==== LZ 7-1: Grundlagen von Kommunikationssicherheit kennen
 
-Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
-in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
-wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
+Teilnehmer:innen kennen die Grundlagen von Kommunikationssicherheit und können Technologien wie TCP, HTTP und TLS einordnen.
+Sie haben ein Bewusstsein für die Notwendigkeit sicherer Kommunikation - auch bei unternehmensinternen Schnittstellen.
 
-* Erstes Teilziel
-* Zweites Unterthema
-* Dritter Aspekt
+[[LZ-7-2]]
+==== LZ 7-2: Relevante Technologien im API-Umfeld verstehen
 
-[[LZ-5-2]]
-==== LZ 5-2: Hier ist ein zweites Lernziel in diesem Kapitel
-tbd.
+Teilnehmer:innen verstehen, wie HTTPS, HTTP-Authentisierung, OAuth und OpenID Connect funktionieren, inwiefern diese sich unterscheiden und wie die Technologien bei der Absicherung von APIs helfen.
+
 // end::DE[]
 
 // tag::EN[]
-[[LG-5-1]]
-==== LG 5-1: TBD
+[[LG-7-2]]
+==== LG 7-2: TBD
 tbd.
 
-[[LG-5-2]]
-==== LG 5-2: TBD
+[[LG-7-2]]
+==== LG 7-2: TBD
 tbd.
 // end::EN[]
-
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
