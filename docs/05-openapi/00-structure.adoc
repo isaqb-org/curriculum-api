@@ -3,11 +3,11 @@
 // ====================================================
 
 // tag::DE[]
-== Und so heißt Modul 5
+== Beschreibung von APIs am Beispiel OpenAPI
 // end::DE[]
 
 // tag::EN[]
-== And This is Module no 5
+== Description of APIs using the example of OpenAPI
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]

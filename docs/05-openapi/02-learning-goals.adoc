@@ -1,21 +1,34 @@
 === {learning-goals}
 
-
 // tag::DE[]
 [[LZ-5-1]]
-==== LZ 5-1: Dies ist das erste Lernziel in Kapitel 5, lorem ipsum sit dolor
+==== LZ 5-1: Wichtigkeit von API Beschreibungen kennen
 
-Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
-in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
-wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
-
-* Erstes Teilziel
-* Zweites Unterthema
-* Dritter Aspekt
+Teilnehmer:innen verstehen den Nutzen von API-Beschreibungen und kennen die Zielgruppen. Das Problem des "API Drift" ist bekannt. Sie können das Zusammenspiel von Design, Implementierung, Versionierung, Beschreibung, Versionierung der Beschreibung einordnen und wie diese Dinge im Idealfall sowie in der Realität praktiziert werden.
 
 [[LZ-5-2]]
-==== LZ 5-2: Hier ist ein zweites Lernziel in diesem Kapitel
-tbd.
+==== LZ 5-2: OpenAPI als Beschreibungssprache für HTTP APIs einordnen
+
+Teilnehmer:innen verstehen OpenAPI als eine auf HTTP APIs spezialisierte Beschreibungssprache.
+Sie kennen die Geschichte von OpenAPI und wie sich die verschiedenen Versionen entwickelt haben.
+Teilnehmer:innen wissen, wie sich OpenAPI zur Codegenerierung auf der Anbieter- oder Konsumentenseite verwenden lässt.
+Die generellen Strukturen von JSON und YAML sind bekannt.
+
+[[LZ-5-3]]
+==== LZ 5-3: Der Aufbau von OpenAPI verstehen
+
+Teilnehmer:innen verstehen die Hauptelemente einer OpenAPI Beschreibung und wie diese für konkrete APIs verwendet werden.
+
+* Resourcen (Paths)
+* Interaktionen
+* Repräsentationen
+* Mechanismen wie Tags, Security, Components und Webhooks
+
+[[LZ-5-4]]
+==== LZ 5-4: Alternative Beschreibungssprachen kennen
+
+OpenAPI ist spezialisiert auf HTTP APIs. Für andere API-Stile können alternative Beschreibungssprachen mit ähnlichen generellen Zielen verwendet werden. Teilnehmer:innen kennen diese alternativen Beschreibungssprachen und können sie API-Stilen zuordnen.
+
 // end::DE[]
 
 // tag::EN[]
@@ -27,8 +40,3 @@ tbd.
 ==== LG 5-2: TBD
 tbd.
 // end::EN[]
-
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
