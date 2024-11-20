@@ -2,19 +2,30 @@
 
 // tag::DE[]
 [[LZ-3-1]]
-==== LZ 3-1: Dies ist das erste Lernziel in Kapitel 3, das mit xyz
+==== LZ 3-1: Grundlegende API-Stile verstehen
 
-Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
-in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
-wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
+Die folgenden API-Stile werden erläutert und ihre Vor- sowie Nachteile gegeneinander abgewogen:
 
-* Erstes Teilziel
-* Zweites Unterthema
-* Dritter Aspekt
+* RPC (Remote Procedure Call)
+* Resourcen-basiert
+* Hypermedia
+* Query
+* Events & asynchrone Kommunikation
 
 [[LZ-3-2]]
-==== LZ 3-2: Hier ist ein zweites Lernziel in diesem Kapitel
-tbd.
+==== LZ 3-2: Populäre API-Technologien ein- und den jeweiligen API-Stilen zuordnen
+
+Teilnehmer:innen können die wichtigsten populären API-Technologien einordnen und kennen den von ihnen implementierten API-Stil, z. B.:
+
+* gRPC
+* HTTP APIs
+* REST
+* GraphQL
+
+[[LZ-3-3]]
+==== LZ 3-3: Auswahlkriterien und Konsequenzen von API-Stilen & Technologien kennen
+
+Teilnehmer:innen erwerben ein Verständnis für Kriterien, wann welche Stile/Technologien besser oder weniger gut passen und welche Konsequenzen die jeweilige Auswahl mit sich bringt.
 
 // end::DE[]
 
@@ -27,8 +38,3 @@ tbd.
 ==== LG 3-2: TBD
 tbd.
 // end::EN[]
-
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====

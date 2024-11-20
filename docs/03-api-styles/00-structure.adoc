@@ -3,11 +3,11 @@
 // ====================================================
 
 // tag::DE[]
-== Der Titel des dritten Moduls
+== API Stile und Technologien
 // end::DE[]
 
 // tag::EN[]
-== The Third Module's Title
+== API Styles and Technologies
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]

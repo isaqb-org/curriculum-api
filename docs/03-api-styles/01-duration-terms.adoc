@@ -1,17 +1,17 @@
 // tag::DE[]
 |===
-| Dauer: XXX Min. | Übungszeit: XXX Min.
+| Dauer: 60 Min. | Übungszeit: 30 Min.
 |===
 
 === Begriffe und Konzepte
-Begriff 1, Begriff 2, Begriff 3
 
+RPC, Ressource, Hypermedia, Query, Events, asynchrone Kommunikation, gRPC, HTTP APIs, REST, GraphQL
 
 // end::DE[]
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 60 min | Practice time: 30 min
 |===
 
 === Terms and Principles
