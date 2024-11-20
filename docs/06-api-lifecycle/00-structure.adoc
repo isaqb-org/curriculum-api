@@ -3,11 +3,11 @@
 // ====================================================
 
 // tag::DE[]
-== Und so heißt Modul 5
+== API Lifecycle und API Tooling
 // end::DE[]
 
 // tag::EN[]
-== And This is Module no 5
+== API Lifecycle and API Tooling
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]

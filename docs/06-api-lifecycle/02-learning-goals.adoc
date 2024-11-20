@@ -1,34 +1,34 @@
 === {learning-goals}
 
-
 // tag::DE[]
-[[LZ-5-1]]
-==== LZ 5-1: Dies ist das erste Lernziel in Kapitel 5, lorem ipsum sit dolor
+[[LZ-6-1]]
+==== LZ 6-1: API Lifecycle verstehen
 
-Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
-in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
-wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
+Teilnehmer:innen kennen verschiedene Schritte des Entwicklungszyklus eines API Produkts und die typischen Aufgaben, die bei diesen Schritten anfallen.
+Die Aufteilung in Planung und Anforderungsanalyse, Design und Prototyping, Entwicklung, Testing und Qualitätsprüfung, Deployment und Veröffentlichung, Betrieb und Wartung sowie Verbesserung und Iteration sind bekannt.
+Ebenfalls bekannt sind die verschiedenen Lebensphasen eines APIs wie Prototyp, produktiver Betrieb, Deprecation und das Abschalten.
 
-* Erstes Teilziel
-* Zweites Unterthema
-* Dritter Aspekt
+[[LZ-6-2]]
+==== LZ 6-2: APIs als Produkte verwalten
 
-[[LZ-5-2]]
-==== LZ 5-2: Hier ist ein zweites Lernziel in diesem Kapitel
-tbd.
+APIs kommen oft in lose gekoppelten Szenarien zum Einsatz und aus diesem Grund ist es sinnvoll, sie als Produkte zu managen.
+Teilnehmer:innen verstehen, was es bedeutet, eine API als Produkt zu verwalten.
+Dies beginnt beim Zielgruppenfokus, berücksichtigt Fragen der Nutzbarkeit, von Feedback sowie Verbesserung und behandelt auch Fragen von Deprecation und der Bereitstellung von Alternativen.
+
+[[LZ-6-3]]
+==== LZ 6-3: API Lifecycle Tooling kennen
+
+Teilnehmer:innen kennen typische Tools für den Einsatz im API Lifecycle zur Unterstützung von Produzenten und Konsumenten wie Linting, Testing (z. B. Consumer-driven Contract Testing), Mocking sowie Betrieb (API Gateways).
+Teilnehmer:innen können mit einigen dieser Tools praktisch arbeiten und verstehen sie in das Gesamtbild des API Lifecycle Tooling einzuordnen.
+
 // end::DE[]
 
 // tag::EN[]
-[[LG-5-1]]
-==== LG 5-1: TBD
+[[LG-6-1]]
+==== LG 6-1: TBD
 tbd.
 
-[[LG-5-2]]
-==== LG 5-2: TBD
+[[LG-6-2]]
+==== LG 6-2: TBD
 tbd.
 // end::EN[]
-
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
