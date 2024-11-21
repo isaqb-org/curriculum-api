@@ -1,6 +1,6 @@
 === {references}
 
-<<api-business-model>>
+<<api-business-models>>
 
 // tag::DE[]
 // silence asciidoctor warnings

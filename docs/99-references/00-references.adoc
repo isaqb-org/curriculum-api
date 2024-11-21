@@ -28,5 +28,5 @@ ATTENTION: labels have to be non-numeric.
 
 **A**
 
-- [[[api-business-model,API Business Models]]] ProgrammableWeb's 2020 Guide to API Business Models, ProgrammableWeb, May 2020.
+- [[[api-business-models,API Business Models]]] ProgrammableWeb's 2020 Guide to API Business Models, ProgrammableWeb, May 2020.
 
