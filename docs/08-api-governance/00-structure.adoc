@@ -3,11 +3,11 @@
 // ====================================================
 
 // tag::DE[]
-== Und so heißt Modul 5
+== APIs at Scale: Plattformen und Governance
 // end::DE[]
 
 // tag::EN[]
-== And This is Module no 5
+== APIs at Scale: Platforms and governance
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
