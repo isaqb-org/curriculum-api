@@ -3,11 +3,11 @@
 // ====================================================
 
 // tag::DE[]
-== Beschreibung von APIs am Beispiel OpenAPI
+== Beschreibung von APIs
 // end::DE[]
 
 // tag::EN[]
-== Description of APIs using the example of OpenAPI
+== Description of APIs
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]

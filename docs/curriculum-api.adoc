@@ -49,7 +49,7 @@ include::03-api-styles/00-structure.adoc[{include_configuration}]
 include::04-api-design/00-structure.adoc[{include_configuration}]
 
 <<<
-include::05-openapi/00-structure.adoc[{include_configuration}]
+include::05-api-description/00-structure.adoc[{include_configuration}]
 
 <<<
 include::06-api-lifecycle/00-structure.adoc[{include_configuration}]
