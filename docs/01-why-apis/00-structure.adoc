@@ -4,11 +4,11 @@
 
 
 // tag::DE[]
-== Dies ist der Titel des ersten Moduls
+== Warum APIs wichtig sind
 // end::DE[]
 
 // tag::EN[]
-== This is the First Module's Title
+== Why APIs are important
 // end::EN[]
 
 
