@@ -2,7 +2,7 @@
 
 // tag::DE[]
 [[LZ-5-1]]
-==== LZ 5-1: Wichtigkeit von API Beschreibungen kennen
+==== LZ 5-1: Wichtigkeit von API-Beschreibungen kennen
 
 Teilnehmer:innen verstehen den Nutzen von API-Beschreibungen und kennen die Zielgruppen. Das Problem des "API Drift" ist bekannt. Sie können das Zusammenspiel von Design, Implementierung, Versionierung, Beschreibung, Versionierung der Beschreibung einordnen und wie diese Dinge im Idealfall sowie in der Realität praktiziert werden.
 
