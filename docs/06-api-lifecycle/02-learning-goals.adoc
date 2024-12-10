@@ -12,13 +12,13 @@ Ebenfalls bekannt sind die verschiedenen Lebensphasen eines APIs wie Prototyp, p
 ==== LZ 6-2: APIs als Produkte verwalten
 
 APIs kommen oft in lose gekoppelten Szenarien zum Einsatz und aus diesem Grund ist es sinnvoll, sie als Produkte zu managen.
-Teilnehmer:innen verstehen, was es bedeutet, eine API als Produkt zu verwalten.
+Teilnehmer:innen verstehen, was es bedeutet, ein API als Produkt zu verwalten.
 Dies beginnt beim Zielgruppenfokus, berücksichtigt Fragen der Nutzbarkeit, von Feedback sowie Verbesserung und behandelt auch Fragen von Deprecation und der Bereitstellung von Alternativen.
 
 [[LZ-6-3]]
 ==== LZ 6-3: API Lifecycle Tooling kennen
 
-Teilnehmer:innen kennen typische Tools für den Einsatz im API Lifecycle zur Unterstützung von Produzenten und Konsumenten wie Linting, Testing (z. B. Consumer-driven Contract Testing), Mocking sowie Betrieb (API Gateways).
+Teilnehmer:innen kennen typische Tools für den Einsatz im API Lifecycle zur Unterstützung von Produzenten und Konsumenten wie Linting, Testing (z. B. Contract Testing), Mocking sowie Betrieb (API Gateways).
 Teilnehmer:innen können mit einigen dieser Tools praktisch arbeiten und verstehen sie in das Gesamtbild des API Lifecycle Tooling einzuordnen.
 
 // end::DE[]
