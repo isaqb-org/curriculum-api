@@ -11,6 +11,12 @@ This section contains references that are cited in the curriculum.
 
 **A**
 
-- [[[api-business-models,API Business Models]]] ProgrammableWeb's 2020 Guide to API Business Models, ProgrammableWeb, May 2020. https://www.mulesoft.com/sites/default/files/cmm_files/2020_Guide_to_API_Business_Models.pdf
+- [[[api-business-models,API Business Models]]] "ProgrammableWeb's 2020 Guide to API Business Models", ProgrammableWeb, May 2020. https://www.mulesoft.com/sites/default/files/cmm_files/2020_Guide_to_API_Business_Models.pdf
 
-- [[[geewax,Geewax 2021]]] J Geewax: API Design Patterns. 1. Auflage, Manning Publications 2021
+**G**
+
+- [[[geewax,Geewax 2021]]] JJ Geewax, "API Design Patterns", Manning Publications, 2021
+
+**V**
+
+- [[[zimmermann,Zimmermann et al. 2022]]] Olaf Zimmermann, Mirko Stocker, Daniel Lübke, Uwe Zdun, Cesare Pautasso, "Patterns for API Design: Simplifying Integration with Loosely Coupled Message Exchanges", Addison-Wesley Professional, November 2022
