@@ -11,18 +11,18 @@ Teilnehmer:innen verstehen, weshalb ein gewissenhaftes Design von API-Schnittste
 ==== LZ 4-2: API Design als "Outside-in" Ansatz anwenden
 
 Zu den wichtigsten Zielen von APIs zählt die effiziente Anbindung von Konsumenten an die Schnittstelle des Betreibers.
-Das Design sollte auf die Anforderungen der Konsumenten fokussiert sein und nicht entlang eventuell bestehender Systeme, Use Cases oder Datenbanken. Teilnehmer:innen kennen und verstehen die Ansätze von API First und konsumentengetriebenem API-Design.
+Das Design sollte auf die Anforderungen der Konsumenten fokussiert sein und nicht entlang eventuell bestehender Systeme, Use Cases oder Datenbanken. Teilnehmer:innen kennen und verstehen die Ansätze von API First und konsumentengetriebenem API Design.
 
 [[LZ-4-3]]
 ==== LZ 4-3: Offenheit und Erweiterbarkeit als wichtige Aspekte für die Weiterentwicklung von APIs interpretieren
 
-Teilnehmer:innen kennen Postel's Law, die Bedeutung von Forward und Backward Compatibility und welchen immensen Einfluss diese auf die Möglichkeit der Weiterentwicklung von API-Schnittstellen haben.
+Teilnehmer:innen kennen Postel's Law, die Bedeutung von Forward und Backward Compatibility und welchen Einfluss diese auf die Möglichkeit der Weiterentwicklung von APIs haben.
 Darüber hinaus erfahren Teilnehmer:innen, welche Konsequenzen dies für die Implementierung von APIs und deren Clients in streng und statisch typisierten Programmiersprachen hat.
 
 [[LZ-4-4]]
 ==== LZ 4-4: Versionierung von APIs verstehen
 
-Teilnehmer:innen erlangen ein Verständnis für verschiedene Aspekte der Versionierung und wie sie innerhalb des Lebenszyklus eines API Produkts verwendet werden.
+Teilnehmer:innen erlangen ein Verständnis für verschiedene Aspekte der Versionierung und wie sie innerhalb des Lebenszyklus eines APIs verwendet werden.
 
 [[LZ-4-5]]
 ==== LZ 4-5: Good Practices für gelungenes API Design kennen
