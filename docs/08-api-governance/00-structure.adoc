@@ -7,7 +7,7 @@
 // end::DE[]
 
 // tag::EN[]
-== APIs at Scale: Platforms and governance
+== APIs at Scale: Platforms and Governance
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
