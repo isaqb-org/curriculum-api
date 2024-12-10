@@ -1,29 +1,19 @@
 // tag::DE[]
 |===
-| Dauer: XXX Min. | Übungszeit: XXX Min.
+| Dauer: 90 Min. | Übungszeit: 30 Min.
 |===
 
 === Begriffe und Konzepte
-Begriff 1, Begriff 2, Begriff 3
 
+Design von API-Schnittstellen, API First, konsumentengetriebenes API-Design, Postel's Law, Forward und Backward Compatibility, Versionierung und Lebenszyklus von API Produkten, JSON:API, API Design Style Guides
 
 // end::DE[]
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 90 min | Practice time: 30 min
 |===
 
 === Terms and Principles
 Term 1, Term 2, Term 3
 // end::EN[]
-
-[NOTE]
-====
-Überschrift in 00-structure.adoc ersetzen
-====
-
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
-====
