@@ -15,6 +15,6 @@ Kommunikationssicherheit, TCP, HTTP, SSL/TLS, HTTPS, HTTP-Authentifizierung, OAu
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+Communication security, TCP, HTTP, SSL/TLS, HTTPS, HTTP authentication, OAuth, OpenID Connect
 
 // end::EN[]
