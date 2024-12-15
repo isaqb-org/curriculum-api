@@ -1,22 +1,10 @@
 // tag::DE[]
 === Voraussetzungen
 
-Neben dem Schwerpunkt auf technischem Themen werden auch strategische Aspekte behandelt wie die Wertschöpfung und die Verwendungen von APIs als Team-Kollaboration im Unternehmen. Damit eignet sich das Modul gut, um sich dem Thema APIs mit einer weiteren Perspektive als dem rein technischen Blick zu nähern.
-
 Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrung mitbringen:
-
-- Architekten, Entwickler und andere technisch orientierte Personen, die sich einen umfassenden Überblick über das Thema APIs verschaffen möchten.
-- Voraussetzung 1
-- Voraussetzung 2, etc.
-
-**Hilfreich** für das Verständnis einiger Konzepte sind darüber hinaus:
-
-- Kenntnisgruppe 1:
-  * Kenntnis 1
-  * Erfahrung 2
-  * Kenntnis 3
-  * Erfahrung 4
-  * Wissen 5
+- Architekten
+- Entwickler
+- andere technisch orientierte Personen, die sich einen umfassenden Überblick über das Thema APIs verschaffen möchten.
 // end::DE[]
 
 // tag::EN[]
