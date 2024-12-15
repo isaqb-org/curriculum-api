@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Begriff 1, Begriff 2, Begriff 3
+API Economy, API Wertschöpfung, API Business Models, Digitale Transformation
 
 
 // end::DE[]
@@ -18,8 +18,3 @@ Begriff 1, Begriff 2, Begriff 3
 Term 1, Term 2, Term 3
 
 // end::EN[]
-
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
-====

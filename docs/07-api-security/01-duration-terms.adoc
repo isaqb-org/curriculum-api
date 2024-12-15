@@ -4,7 +4,6 @@
 |===
 
 === Begriffe und Konzepte
-
 Kommunikationssicherheit, TCP, HTTP, SSL/TLS, HTTPS, HTTP-Authentifizierung, OAuth, OpenID Connect
 
 // end::DE[]
