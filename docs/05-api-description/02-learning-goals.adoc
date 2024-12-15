@@ -1,0 +1,42 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-5-1]]
+==== LZ 5-1: Wichtigkeit von API-Beschreibungen kennen
+
+Teilnehmer:innen verstehen den Nutzen von API-Beschreibungen und kennen die Zielgruppen. Das Problem des "API Drift" ist bekannt. Sie können das Zusammenspiel von Design, Implementierung, Versionierung, Beschreibung, Versionierung der Beschreibung einordnen und wie diese Dinge im Idealfall sowie in der Realität praktiziert werden.
+
+[[LZ-5-2]]
+==== LZ 5-2: OpenAPI als Beschreibungssprache für HTTP APIs einordnen
+
+Teilnehmer:innen verstehen OpenAPI als eine auf HTTP APIs spezialisierte Beschreibungssprache.
+Sie kennen die Geschichte von OpenAPI und wie sich die verschiedenen Versionen entwickelt haben.
+Teilnehmer:innen wissen, wie sich OpenAPI zur Codegenerierung auf der Anbieter- oder Konsumentenseite verwenden lässt.
+Die generellen Strukturen von JSON und YAML sind bekannt.
+
+[[LZ-5-3]]
+==== LZ 5-3: Der Aufbau von OpenAPI verstehen
+
+Teilnehmer:innen verstehen die Hauptelemente einer OpenAPI Beschreibung und wie diese für konkrete APIs verwendet werden.
+
+* Resourcen (Paths)
+* Interaktionen
+* Repräsentationen
+* Mechanismen wie Tags, Security, Components und Webhooks
+
+[[LZ-5-4]]
+==== LZ 5-4: Alternative Beschreibungssprachen kennen
+
+OpenAPI ist spezialisiert auf HTTP APIs. Für andere API-Stile können alternative Beschreibungssprachen mit ähnlichen generellen Zielen verwendet werden. Teilnehmer:innen kennen diese alternativen Beschreibungssprachen und können sie API-Stilen zuordnen.
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-5-1]]
+==== LG 5-1: TBD
+tbd.
+
+[[LG-5-2]]
+==== LG 5-2: TBD
+tbd.
+// end::EN[]
