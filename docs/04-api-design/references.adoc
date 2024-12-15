@@ -1,8 +1,6 @@
 === {references}
 
-<<geewax>>, <<apipatterns>>
-
-<<zimmermann>>
+<<geewax>>, <<zimmermann>>
 
 // tag::DE[]
 // silence asciidoctor warnings
