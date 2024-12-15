@@ -2,19 +2,41 @@
 
 // tag::DE[]
 [[LZ-4-1]]
-==== LZ 4-1: Dies ist das erste Lernziel in Kapitel 4, das mit xyz
+==== LZ 4-1: Bedeutung von API Design verstehen
 
-Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
-in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
-wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
+Teilnehmer:innen verstehen, weshalb ein gewissenhaftes Design von API-Schnittstellen von großer Bedeutung ist und welchen Einfluss dies auf die Nutzbarkeit, Wartung, Weiterentwicklung und Verbreitung der Schnittstelle haben wird.
 
-* Erstes Teilziel
-* Zweites Unterthema
-* Dritter Aspekt
 
 [[LZ-4-2]]
-==== LZ 4-2: Hier ist ein zweites Lernziel in diesem Kapitel
-tbd.
+==== LZ 4-2: API Design als "Outside-in" Ansatz anwenden
+
+Zu den wichtigsten Zielen von APIs zählt die effiziente Anbindung von Konsumenten an die Schnittstelle des Betreibers.
+Das Design sollte auf die Anforderungen der Konsumenten fokussiert sein und nicht entlang eventuell bestehender Systeme, Use Cases oder Datenbanken. Teilnehmer:innen kennen und verstehen die Ansätze von API First und konsumentengetriebenem API-Design.
+
+[[LZ-4-3]]
+==== LZ 4-3: Offenheit und Erweiterbarkeit als wichtige Aspekte für die Weiterentwicklung von APIs interpretieren
+
+Teilnehmer:innen kennen Postel's Law, die Bedeutung von Forward und Backward Compatibility und welchen Einfluss diese auf die Möglichkeit der Weiterentwicklung von APIs haben.
+Darüber hinaus erfahren Teilnehmer:innen, welche Konsequenzen dies für die Implementierung von APIs und deren Clients in streng und statisch typisierten Programmiersprachen hat.
+
+[[LZ-4-4]]
+==== LZ 4-4: Versionierung von APIs verstehen
+
+Teilnehmer:innen erlangen ein Verständnis für verschiedene Aspekte der Versionierung und wie sie innerhalb des Lebenszyklus eines API Produkts verwendet werden.
+
+[[LZ-4-5]]
+==== LZ 4-5: Good Practices für gelungenes API Design kennen
+
+Teilnehmer:innen lernen bewährte und verbreitete Ansätze für das Design von HTTP APIs kennen und verstehen die Vorteile und Herausforderungen.
+
+Hierzu zählen u. a.:
+
+* URL-Pfade
+* korrekte Verwendung von HTTP-Methoden oder Operationen für häufig benötigte Funktionalität wie Suchen, Filtern oder Sortieren
+* Formatvorschläge wie JSON:API
+* Problem Details for HTTP APIs (RFC 9457)
+* API Design Style Guides <<geewax>>
+
 
 // end::DE[]
 
@@ -27,8 +49,3 @@ tbd.
 ==== LG 4-2: TBD
 tbd.
 // end::EN[]
-
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====

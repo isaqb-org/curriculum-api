@@ -9,24 +9,15 @@ Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum 
 This section contains references that are cited in the curriculum.
 // end::EN[]
 
-[NOTE]
-====
-Aufbau eines Eintrags-Ankers:
-```
-- [[[label,Text der erscheint]]]
-```
-ACHTUNG: Die Labels dürfen nur Buchstaben beinhalten, keine Zahlen oder Sonderzeichen
-
-= = =
-
-Structure of an anchor:
-```
-- [[[label,text that will be shown]]]
-```
-ATTENTION: labels have to be non-numeric.
-====
-
 **A**
 
-- [[[api-business-models,API Business Models]]] ProgrammableWeb's 2020 Guide to API Business Models, ProgrammableWeb, May 2020.
+- [[[api-business-models,API Business Models]]] "ProgrammableWeb's 2020 Guide to API Business Models", ProgrammableWeb, May 2020. https://www.mulesoft.com/sites/default/files/cmm_files/2020_Guide_to_API_Business_Models.pdf
+
+**G**
+
+- [[[geewax,Geewax 2021]]] JJ Geewax, "API Design Patterns", Manning Publications, 2021
+
+**Z**
+
+- [[[zimmermann,Zimmermann et al. 2022]]] Olaf Zimmermann, Mirko Stocker, Daniel Lübke, Uwe Zdun, Cesare Pautasso, "Patterns for API Design: Simplifying Integration with Loosely Coupled Message Exchanges", Addison-Wesley Professional, November 2022, ISBN 978-0-13767-010-9
 
