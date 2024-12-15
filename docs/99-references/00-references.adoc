@@ -20,3 +20,6 @@ This section contains references that are cited in the curriculum.
 **V**
 
 - [[[zimmermann,Zimmermann et al. 2022]]] Olaf Zimmermann, Mirko Stocker, Daniel Lübke, Uwe Zdun, Cesare Pautasso, "Patterns for API Design: Simplifying Integration with Loosely Coupled Message Exchanges", Addison-Wesley Professional, November 2022
+
+- [[[apipatterns,Zimmermann, et al. 2023]]] Zimmermann, O., Stocker, M., Lübke, D., Zdun, U., Pautasso, C., & Leymann, F.: Patterns for API design: Simplifying integration with loosely coupled message exchanges Addison-Wesley, 2023, ISBN 978-0-13767-010-9
+

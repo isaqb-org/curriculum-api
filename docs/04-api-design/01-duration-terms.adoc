@@ -5,7 +5,7 @@
 
 === Begriffe und Konzepte
 
-Design von API-Schnittstellen, API First, konsumentengetriebenes API-Design, Postel's Law, Forward und Backward Compatibility, Versionierung und Lebenszyklus von API Produkten, JSON:API, API Design Style Guides
+Design von APIs, API First, konsumentengetriebenes API-Design, Postel's Law, Forward und Backward Compatibility, Versionierung und Lebenszyklus von API Produkten, JSON:API, API Design Style Guides
 
 // end::DE[]
 
