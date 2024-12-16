@@ -30,7 +30,16 @@ Teilnehmer:innen können APIs einordnen in das grössere Bild digitaler Transfor
 // end::DE[]
 
 // tag::EN[]
-[[LG-1-1]]
-==== LG 1-1: The is the first learning goal, in category xy
-tbd.
+[[LG-2-1]]
+==== LG 2-1: Understanding the "API Economy"
+
+[[LG-2-2]]
+==== LG 2-2: Knowing Various Ways of API Value Creation
+
+[[LG-2-3]]
+==== LG 2-3: Understanding API Business Models
+
+[[LG-2-4]]
+==== LG 2-4: Understanding APIs and Digital Transformation
+
 // end::EN[]
