@@ -12,7 +12,7 @@
 | 0
 
 | 2. Wie APIs Wert erzeugen
-| 90
+| 60
 | 30
 
 | 3. API Stile und Technologien
@@ -24,12 +24,12 @@
 | 30
 
 | 5. Beschreibung von APIs
-| 90
+| 60
 | 30
 
 | 6. API Lifecycle und API Tooling
 | 90
-| 60
+| 30
 
 | 7. API Security
 | 60
@@ -37,7 +37,7 @@
 
 | 8. APIs at Scale: Plattformen und Governance
 | 60
-| 30
+| 0
 
 |
 |
