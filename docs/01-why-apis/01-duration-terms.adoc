@@ -10,9 +10,9 @@ Lokale APIs, Netzwerk-basierte APIs, API Landschaft, Systemintegration
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 60 min | Practice time: 0 min
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+Local APIs, Network-Based APIs, API landscape, Systems Integration
 // end::EN[]
