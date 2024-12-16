@@ -15,6 +15,6 @@ API Economy, API Wertschöpfung, API Business Models, Digitale Transformation
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+API economy, API value creation, API business models, Digital Transformation
 
 // end::EN[]
