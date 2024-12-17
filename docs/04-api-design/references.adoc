@@ -1,6 +1,6 @@
 === {references}
 
-<<geewax>>, <<zimmermann>>
+<<geewax>>, <<zimmermann>>, <<lauret>>, <<amundsen>>, <<higginbotham>>
 
 // tag::DE[]
 // silence asciidoctor warnings
