@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-API-Beschreibung, OpenAPI
+API-Beschreibung, OpenAPI, GraphQL, gRPC, AsyncAPI, IDL
 
 // end::DE[]
 
