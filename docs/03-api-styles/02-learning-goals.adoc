@@ -31,10 +31,14 @@ Teilnehmer:innen erwerben ein Verständnis für Kriterien, wann welche Stile/Tec
 
 // tag::EN[]
 [[LG-3-1]]
-==== LG 3-1: TBD
+==== LG 3-1: Understanding Fundamental API Styles
 tbd.
 
 [[LG-3-2]]
-==== LG 3-2: TBD
+==== LG 3-2: Understanding Popular API Technologies and Associating Them With API Styles
+tbd.
+
+[[LG-3-3]]
+==== LG 3-3: Understanding When to Use Which Style and Technology and the Consequences of That Choice
 tbd.
 // end::EN[]
