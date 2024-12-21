@@ -10,7 +10,7 @@ API-Beschreibung, OpenAPI
 
 // tag::EN[]
 |===
-| Duration: 90 min | Practice time: 30 min
+| Duration: 60 min | Practice time: 30 min
 |===
 
 === Terms and Principles

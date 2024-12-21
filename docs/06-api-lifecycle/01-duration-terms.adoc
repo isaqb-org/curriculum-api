@@ -11,7 +11,7 @@ API Lifecycle, API Produkt, Linting, Contract Testing, API Gateway
 
 // tag::EN[]
 |===
-| Duration: 90 min | Practice time: 60 min
+| Duration: 90 min | Practice time: 30 min
 |===
 
 === Terms and Principles
