@@ -14,5 +14,6 @@ Design von APIs, API First, konsumentengetriebenes API-Design, Postel's Law, For
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+API design, API First, consumer-driven API design, Postel's Law, Forward and backward compatibility, Versioning and lifecycle of API products, JSON:API, API design style guides
+
 // end::EN[]
