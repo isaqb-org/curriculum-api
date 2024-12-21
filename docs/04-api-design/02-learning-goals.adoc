@@ -42,10 +42,26 @@ Hierzu zählen u. a.:
 
 // tag::EN[]
 [[LG-4-1]]
-==== LG 4-1: TBD
+==== LG 4-1: Understanding the Significance of API Design
 tbd.
 
 [[LG-4-2]]
-==== LG 4-2: TBD
+==== LG 4-2: Using the "outside-in" Approach for API Design
 tbd.
+[[LG-4-2]]
+==== LG 4-2: Using the "outside-in" Approach for API Design
+tbd.
+
+[[LG-4-3]]
+==== LG 4-3: Understanding Openness and Extensibility as Important Aspects for API Evolution
+tbd.
+
+[[LG-4-4]]
+==== LG 4-4: Understanding API Versioning
+tbd.
+
+[[LG-4-5]]
+==== LG 4-5: Understanding Good Practices for API Design
+tbd.
+
 // end::EN[]
