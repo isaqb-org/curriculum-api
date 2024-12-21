@@ -15,7 +15,7 @@ Die folgenden API-Stile werden verstanden und ihre Vor- sowie Nachteile können 
 [[LZ-3-2]]
 ==== LZ 3-2: Populäre API-Technologien ein- und den jeweiligen API-Stilen zuordnen
 
-Teilnehmer:innen können die wichtigsten populären API-Technologien einordnen und kennen den von ihnen implementierten API-Stil, z. B.:
+Teilnehmer:innen können die wichtigsten populären API-Technologien einordnen und kennen den von ihnen implementierten API-Stil, z.B.:
 
 * gRPC
 * HTTP APIs
@@ -32,13 +32,28 @@ Teilnehmer:innen erwerben ein Verständnis für Kriterien, wann welche Stile/Tec
 // tag::EN[]
 [[LG-3-1]]
 ==== LG 3-1: Understanding Fundamental API Styles
-tbd.
+
+The following API styles are understood by participants and their advantages and drawbacks can be compared:
+
+* RPC (Remote Procedure Call)
+* Resource-based
+* Hypermedia
+* Query
+* Events & asynchronous communications
 
 [[LG-3-2]]
 ==== LG 3-2: Understanding Popular API Technologies and Associating Them With API Styles
-tbd.
+
+Participants are able to classify the most important API technologies and know which API style they are implementing, for example:
+
+* gRPC
+* HTTP APIs
+* REST
+* GraphQL
 
 [[LG-3-3]]
 ==== LG 3-3: Understanding When to Use Which Style and Technology and the Consequences of That Choice
-tbd.
+
+Participants gain knowledge of criteria when certain styles and technologies are a good or not-so-good fit, and which consequences the selection will have.
+
 // end::EN[]
