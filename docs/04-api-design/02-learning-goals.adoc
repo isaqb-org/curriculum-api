@@ -66,7 +66,11 @@ Participants also understand the consequences for API implementation in strong a
 [[LG-4-4]]
 ==== LG 4-4: Understanding API Versioning
 
-Participants gain knowledge for various aspects of versioning and how these are applied during the lifecycle of an API product.
+Participants gain knowledge for various aspects of versioning and how these are applied during the lifecycle of an API product. The following concepts are known:
+
+* Compatibility and the difference between forward and backward compatibility
+* Version identification in general and semantic versioning as a specific model for version identification
+* Different ways of version identification for APIs (for example, domain name, URI path, HTTP header, payload-based)
 
 [[LG-4-5]]
 ==== LG 4-5: Knowing Good Practices for API Design
