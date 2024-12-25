@@ -24,11 +24,11 @@
 | 30
 
 | 5. Beschreibung von APIs
-| 60
+| 90
 | 30
 
 | 6. API Lifecycle und API Tooling
-| 90
+| 60
 | 30
 
 | 7. API Security
