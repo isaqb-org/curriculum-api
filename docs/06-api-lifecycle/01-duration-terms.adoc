@@ -15,6 +15,7 @@ API Lifecycle, API Produkt, Linting, Contract Testing, API Gateway
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+
+API lifecycle, API product, linting, contract testing, API gateway
 
 // end::EN[]
