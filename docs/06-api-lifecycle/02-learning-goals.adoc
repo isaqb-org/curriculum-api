@@ -25,10 +25,15 @@ Teilnehmer:innen können mit einigen dieser Tools praktisch arbeiten und versteh
 
 // tag::EN[]
 [[LG-6-1]]
-==== LG 6-1: TBD
+==== LG 6-1: Understanding the API Lifecycle
 tbd.
 
 [[LG-6-2]]
-==== LG 6-2: TBD
+==== LG 6-2: Managing APIs as Products
 tbd.
+
+[[LG-6-3]]
+==== LG 6-3: Know API Lifecycle Tooling
+tbd.
+
 // end::EN[]
