@@ -15,6 +15,7 @@ Internal Developer Platform (IDP), API Plattform, Business Plattform, API Guidel
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+
+Internal developer platform (IDP), API platform, business platform, API guidelines, API design platform, self service
 
 // end::EN[]
