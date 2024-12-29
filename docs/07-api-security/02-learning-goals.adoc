@@ -16,10 +16,11 @@ Teilnehmer:innen verstehen, wie HTTPS, HTTP-Authentisierung, OAuth und OpenID Co
 
 // tag::EN[]
 [[LG-7-2]]
-==== LG 7-2: TBD
+==== LG 7-2: Understanding Communications Security Fundamentals
 tbd.
 
 [[LG-7-2]]
-==== LG 7-2: TBD
+==== LG 7-2: Understanding Security Technologies for APIs
 tbd.
+
 // end::EN[]
