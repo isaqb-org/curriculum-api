@@ -38,10 +38,19 @@ Dies sind der Konsum von Diensten (X-a-a-S Modell) sowie das Anbieten von Dienst
 
 // tag::EN[]
 [[LG-8-1]]
-==== LG 8-1: TBD
+==== LG 8-1: Comparing Various Notions of Platform
 tbd.
 
 [[LG-8-2]]
-==== LG 8-2: TBD
+==== LG 8-2: Understanding API Guidelines
 tbd.
+
+[[LG-8-3]]
+==== LG 8-3: Establishing and Managing API Guidelines
+tbd.
+
+[[LG-8-4]]
+==== LG 8-4: Using APIs as Team Interfaces
+tbd.
+
 // end::EN[]
