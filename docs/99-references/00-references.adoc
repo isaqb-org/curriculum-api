@@ -47,6 +47,10 @@ This section contains references that are cited in the curriculum.
 
 - [[[medjaoui,Medjaoui et al. 2019]]] Mehdi Medjaoui, Erik Wilde, Ronnie Mitra, and Mike Amundsen, "Continuous API Management", O'Reilly, 2nd Edition, October 2021
 
+**N**
+
+- [[[nwaiwu,Nwaiwu 2024]]] Ikenna Nwaiwu, "Automating API Delivery: APIOps with OpenAPI", Manning Publications, July 2024
+
 **O**
 
 - [[[openapi,OpenAPI Specification]]] OpenAPI Specification. https://spec.openapis.org/oas/latest.html
@@ -54,7 +58,6 @@ This section contains references that are cited in the curriculum.
 **P**
 
 - [[[ponelat,Ponelat and Rosenstock 2022]]] Joshua S. Ponelat and Lukas L. Rosenstock, "Designing APIs with Swagger and OpenAPI", Manning Publications, 2022
-
 
 **Z**
 
