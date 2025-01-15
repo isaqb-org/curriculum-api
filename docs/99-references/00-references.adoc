@@ -67,9 +67,6 @@ This section contains references that are cited in the curriculum.
 
 - [[[openapi,OpenAPI Specification]]] OpenAPI Specification. https://spec.openapis.org/oas/latest.html
 
-**P**
-
-- [[[openapi,OpenAPI Specification]]] OpenAPI Specification. https://spec.openapis.org/oas/latest.html
 
 **P**
 
