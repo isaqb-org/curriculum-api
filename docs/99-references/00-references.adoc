@@ -35,7 +35,11 @@ This section contains references that are cited in the curriculum.
 
 - [[[lauret,Lauret 2019]]] Arnaud Lauret, "The Design of Web APIs", Manning Publications, 2019
 
-**P**
+**M**
+
+- [[[medjaoui,Medjaoui et al. 2019]]] Mehdi Medjaoui, Erik Wilde, Ronnie Mitra, and Mike Amundsen, "Continuous API Management", O'Reilly, 2nd Edition, October 2021
+
+**O**
 
 - [[[openapi,OpenAPI Specification]]] OpenAPI Specification. https://spec.openapis.org/oas/latest.html
 
