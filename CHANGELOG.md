@@ -1,19 +1,18 @@
 # Release Notes
-## New in 2020.9
-- Improved text in index-page
 
-## New in 2020.8
-- Move all workflows to separate repository
-- Update to Gradle Wrapper 8.8
+## New in 2025.1-RC3
 
-## New in 2020.7
-- Remove lots of old/unused stuff regarding remarks
-- Use Gradle Wrapper in GitHub Actions
-- Take document version from git tag
+- Many tweaks to the overall test
+- Adjusting times to get from 14h to 12h
+- Adding some references (more are still needed)
+- Creating English version of the current german RC text
 
-## New in 2020.6
 
-- CHANGELOG can be created from file
-- Use new and simplified release action
-- Update to latest Aciidoctor versions
-- Update to latest Gradle (7.5.1)
+## New in 2025.1-RC2
+
+- First version with complete German text for all learning goals
+
+
+## New in 2025.1-RC0
+
+- Initial Release
