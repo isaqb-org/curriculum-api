@@ -23,6 +23,10 @@ This section contains references that are cited in the curriculum.
 
 - [[[higginbotham,Higginbotham 2021]]] James Higginbotham, "Principles of Web API Design: Delivering Value with APIs and Microservices", Addison-Wesley, 2021
 
+**J**
+
+- [[[json,JSON]]] Tim Bray, "The JavaScript Object Notation (JSON) Data Interchange Format", Internet Standard RFC 8259, December 2017
+
 **L**
 
 - [[[lauret,Lauret 2019]]] Arnaud Lauret, "The Design of Web APIs", Manning Publications, 2019
