@@ -19,6 +19,8 @@ This section contains references that are cited in the curriculum.
 
 - [[[geewax,Geewax 2021]]] JJ Geewax, "API Design Patterns", Manning Publications, 2021
 
+- [[[goyal,Goyal 2023]]] Deepa Goyal, "API Analytics for Product Managers", Packt Publishing, 2023
+
 **H**
 
 - [[[higginbotham,Higginbotham 2021]]] James Higginbotham, "Principles of Web API Design: Delivering Value with APIs and Microservices", Addison-Wesley, 2021
