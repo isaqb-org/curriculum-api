@@ -23,6 +23,8 @@ This section contains references that are cited in the curriculum.
 
 - [[[graphql,GraphQL Specification]]] GraphQL Specification. https://spec.graphql.org/
 
+- [[[grpc,gRPC Specification]]] gRPC Specification. https://grpc.io/docs/
+
 **H**
 
 - [[[higginbotham,Higginbotham 2021]]] James Higginbotham, "Principles of Web API Design: Delivering Value with APIs and Microservices", Addison-Wesley, 2021
