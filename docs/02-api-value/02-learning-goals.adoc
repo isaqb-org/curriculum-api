@@ -31,12 +31,12 @@ Teilnehmer:innen können APIs einordnen in das grössere Bild digitaler Transfor
 
 // tag::EN[]
 [[LG-2-1]]
-==== LG 2-1: Understanding the "API Economy"
+==== LG 2-1: Understand the "API Economy"
 
 Participants understand the broader concept of the "API Economy" and understand how their products and activities fit into it.
 
 [[LG-2-2]]
-==== LG 2-2: Knowing Various Ways of API Value Creation
+==== LG 2-2: Know Various Ways of API Value Creation
 
 Participants know and understand the various ways in which APIs can help with value creation. On the top level, the different ways can be categorized into three areas:
 
@@ -47,12 +47,12 @@ Participants know and understand the various ways in which APIs can help with va
 Participants understand the various options inside these categories and the relationships between them. They also understand how a comprehensive API strategy adds value for all of these categories.
 
 [[LG-2-3]]
-==== LG 2-3: Understanding API Business Models
+==== LG 2-3: Understand API Business Models
 
 Participants have a detailed knowledge of the various business models for APIs and know a few specific examples. Starting from these different business models participants understand how to analyze existing business models and how they can be augmented with APIs.
 
 [[LG-2-4]]
-==== LG 2-4: Understanding APIs and Digital Transformation
+==== LG 2-4: Understand APIs and Digital Transformation
 
 Participants know how to fit APIs into the bigger picture of digital transformation. APIs are identified as necessary (but not sufficient) aspect of digital transformation, and other necessary aspects are known as well.
 

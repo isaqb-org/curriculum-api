@@ -38,17 +38,17 @@ OpenAPI ist spezialisiert auf HTTP APIs. Für andere API-Stile können alternati
 
 // tag::EN[]
 [[LG-5-1]]
-==== LG 5-1: Understanding the Significance of API Descriptions
+==== LG 5-1: Understand the Significance of API Descriptions
 
 Participants understand the value of API descriptions and understand the various stakeholders. The problem of "API Drift" is known. Participants understand the relationship between design, implementation, versioning, description, and description versioning, and they understand how these concepts relate ideally and in real-world scenarios.
 
 [[LG-5-2]]
-==== LG 5-2: Understanding OpenAPI as a Description Language for HTTP APIs
+==== LG 5-2: Understand OpenAPI as a Description Language for HTTP APIs
 
 Participants understand OpenAPI as a description language that is specialized for HTTP-based APIs. They understand the history of OpenAPI and how the various versions evolved. Participants understand how to use OpenAPI for code generation both on the provider side and on the consumer side. The overall structure of JSON and YAML is understood.
 
 [[LG-5-3]]
-==== LG 5-3: Understanding OpenAPI's Structure
+==== LG 5-3: Understand OpenAPI's Structure
 
 Participants understand the main elements of an OpenAPI description and how to use these for describing concrete APIs.
 
@@ -58,7 +58,7 @@ Participants understand the main elements of an OpenAPI description and how to u
 * Mechanisms such as Tags, Security, Components, and Webhooks
 
 [[LG-5-4]]
-==== LG 5-4: Understanding Alternative Description Languages
+==== LG 5-4: Understand Alternative Description Languages
 
 OpenAPI is specialized for HTTP-based APIs. For other API styles, it is possible to use alternative descriptions languages that have the same general goals. Participants know these alternative description languages and can associate them with API styles.
 
