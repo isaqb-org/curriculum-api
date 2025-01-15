@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-API-Beschreibung, OpenAPI, Protocol Buffers, AsyncAPI, GraphQL
+API-Beschreibung, OpenAPI, Protocol Buffers, AsyncAPI, GraphQL, gRPC, IDL
 
 // end::DE[]
 
@@ -14,6 +14,6 @@ API-Beschreibung, OpenAPI, Protocol Buffers, AsyncAPI, GraphQL
 |===
 
 === Terms and Principles
-API description, OpenAPI, Protocol Buffers, AsyncAPI, GraphQL
+API description, OpenAPI, Protocol Buffers, AsyncAPI, GraphQL, gRPC, IDL
 
 // end::EN[]

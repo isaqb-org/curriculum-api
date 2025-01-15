@@ -29,6 +29,11 @@ Teilnehmer:innen verstehen die Hauptelemente einer OpenAPI Beschreibung und wie 
 
 OpenAPI ist spezialisiert auf HTTP APIs. Für andere API-Stile können alternative Beschreibungssprachen mit ähnlichen generellen Zielen verwendet werden. Teilnehmer:innen kennen diese alternativen Beschreibungssprachen und können sie API-Stilen zuordnen.
 
+* gRPC für RPC-orientierte APIs
+* AsyncAPI für Event-orientierte APIs
+* GraphQL für Query-orientierte APIs
+* Das Konzept einer Interface Definition Language (IDL)
+
 // end::DE[]
 
 // tag::EN[]

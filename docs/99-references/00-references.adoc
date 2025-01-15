@@ -11,11 +11,21 @@ This section contains references that are cited in the curriculum.
 
 **A**
 
+- [[[amundsen,Amundsen 2020]]] Mike Amundsen, "Design and Build Great Web APIs: Robust, Reliable, and Resilient", Pragmatic, 2020.
+
 - [[[api-business-models,API Business Models]]] "ProgrammableWeb's 2020 Guide to API Business Models", ProgrammableWeb, May 2020. https://www.mulesoft.com/sites/default/files/cmm_files/2020_Guide_to_API_Business_Models.pdf
 
 **G**
 
 - [[[geewax,Geewax 2021]]] JJ Geewax, "API Design Patterns", Manning Publications, 2021
+
+**H**
+
+- [[[higginbotham,Higginbotham 2021]]] James Higginbotham, "Principles of Web API Design: Delivering Value with APIs and Microservices", Addison-Wesley, 2021
+
+**L**
+
+- [[[lauret,Lauret 2019]]] Arnaud Lauret, "The Design of Web APIs", Manning Publications, 2019
 
 **Z**
 
