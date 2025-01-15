@@ -1,5 +1,7 @@
 === {references}
 
+<<nwaiwu>>
+
 // tag::DE[]
 // silence asciidoctor warnings
 // end::DE[]

@@ -27,6 +27,10 @@ This section contains references that are cited in the curriculum.
 
 - [[[lauret,Lauret 2019]]] Arnaud Lauret, "The Design of Web APIs", Manning Publications, 2019
 
+**N**
+
+- [[[nwaiwu,Nwaiwu 2024]]] Ikenna Nwaiwu, "Automating API Delivery: APIOps with OpenAPI", Manning Publications, July 2024
+
 **Z**
 
 - [[[zimmermann,Zimmermann et al. 2022]]] Olaf Zimmermann, Mirko Stocker, Daniel Lübke, Uwe Zdun, Cesare Pautasso, "Patterns for API Design: Simplifying Integration with Loosely Coupled Message Exchanges", Addison-Wesley Professional, November 2022, ISBN 978-0-13767-010-9
