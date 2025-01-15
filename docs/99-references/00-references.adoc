@@ -31,6 +31,8 @@ This section contains references that are cited in the curriculum.
 
 - [[[hohpe-woolf,Hohpe and Woolf 2003]]] Gregor Hohpe and Bobby Woolf, "Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions", Addison-Wesley, October 2003
 
+- [[[hohpe,Hohpe 2024]]] Gregor Hohpe, "Platform Strategy: Innovation Through Harmonization", 2024
+
 **L**
 
 - [[[lauret,Lauret 2019]]] Arnaud Lauret, "The Design of Web APIs", Manning Publications, 2019
