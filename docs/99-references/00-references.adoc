@@ -69,6 +69,10 @@ This section contains references that are cited in the curriculum.
 
 **P**
 
+- [[[openapi,OpenAPI Specification]]] OpenAPI Specification. https://spec.openapis.org/oas/latest.html
+
+**P**
+
 - [[[ponelat,Ponelat and Rosenstock 2022]]] Joshua S. Ponelat and Lukas L. Rosenstock, "Designing APIs with Swagger and OpenAPI", Manning Publications, 2022
 
 - [[[porcello,Porcello 2018]]] Eve Porcello, "Learning GraphQL: Declarative Data Fetching for Modern Web Apps", O'Reilly, 2018
