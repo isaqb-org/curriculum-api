@@ -1,6 +1,6 @@
 === {references}
 
-<<openapi>>, <<ponelat>>
+<<asyncapi>>, <<openapi>>, <<ponelat>>
 
 // tag::DE[]
 // silence asciidoctor warnings
