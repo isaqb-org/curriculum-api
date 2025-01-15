@@ -25,6 +25,8 @@ This section contains references that are cited in the curriculum.
 
 - [[[geewax,Geewax 2021]]] JJ Geewax, "API Design Patterns", Manning Publications, 2021
 
+- [[[goyal,Goyal 2023]]] Deepa Goyal, "API Analytics for Product Managers", Packt Publishing, 2023
+
 - [[[graphql,GraphQL Specification]]] GraphQL Specification. https://spec.graphql.org/
 
 - [[[grpc,gRPC Specification]]] gRPC Specification. https://grpc.io/docs/
