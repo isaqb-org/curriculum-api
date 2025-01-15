@@ -39,6 +39,10 @@ This section contains references that are cited in the curriculum.
 
 - [[[hohpe,Hohpe 2024]]] Gregor Hohpe, "Platform Strategy: Innovation Through Harmonization", 2024
 
+**J**
+
+- [[[json,JSON]]] Tim Bray, "The JavaScript Object Notation (JSON) Data Interchange Format", Internet Standard RFC 8259, December 2017
+
 **L**
 
 - [[[lauret,Lauret 2019]]] Arnaud Lauret, "The Design of Web APIs", Manning Publications, 2019
