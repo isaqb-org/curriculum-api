@@ -44,8 +44,8 @@
 |
 
 | Summe
-| 600 (10 h)
-| 240 (4 h)
+| 540 (9 h)
+| 180 (3 h)
 |===
 
 // end::DE[]
@@ -53,18 +53,51 @@
 // tag::EN[]
 === Curriculum Structure and Recommended Durations
 
-[cols="<,>", options="header"]
+[cols="<,>,>", options="header"]
 |===
 | Content
 | Recommended minimum duration (minutes)
-| 1. Introduction | 180
-| 2. xz | 150
-| 3. Lots of theory | 120
-| 4. xy and example | 180
-| 5. abc und d | 210
-| 6. Final example | 120
-| |
-| Total | 960 (16h)
+| Übungszeit (Minuten)
+
+| 1. Why APIs are Important
+| 60
+| 0
+
+| 2. How APIs are Creating Value
+| 60
+| 30
+
+| 3. API Styles and Technologies
+| 60
+| 30
+
+| 4. API Design
+| 90
+| 30
+
+| 5. Description of APIs
+| 90
+| 30
+
+| 6. API Lifecycle and API Tooling
+| 60
+| 30
+
+| 7. API Security
+| 60
+| 30
+
+| 8. APIs at Scale: Platforms and Governance
+| 60
+| 0
+
+|
+|
+|
+
+| Total
+| 540 (9 h)
+| 180 (3 h)
 
 |===
 

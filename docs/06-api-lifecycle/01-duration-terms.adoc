@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: 60 Min. | Übungszeit: 30 Min.
+| Dauer: 90 Min. | Übungszeit: 60 Min.
 |===
 
 === Begriffe und Konzepte
@@ -11,10 +11,11 @@ API Lifecycle, API Produkt, Linting, Contract Testing, API Gateway
 
 // tag::EN[]
 |===
-| Duration: 60 min | Practice time: 30 min
+| Duration: 90 min | Practice time: 60 min
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+
+API lifecycle, API product, linting, contract testing, API gateway
 
 // end::EN[]

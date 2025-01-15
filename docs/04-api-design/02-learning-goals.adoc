@@ -4,14 +4,14 @@
 [[LZ-4-1]]
 ==== LZ 4-1: Bedeutung von API Design verstehen
 
-Teilnehmer:innen verstehen, weshalb ein gewissenhaftes Design von API-Schnittstellen von großer Bedeutung ist und welchen Einfluss dies auf die Nutzbarkeit, Wartung, Weiterentwicklung und Verbreitung der Schnittstelle haben wird.
-
+Teilnehmer:innen verstehen, weshalb ein gewissenhaftes Design von API-Schnittstellen von großer Bedeutung ist und welchen Einfluss dies auf die Nutzbarkeit, Wartung, Weiterentwicklung und Verbreitung haben wird.
 
 [[LZ-4-2]]
 ==== LZ 4-2: API Design als "Outside-in" Ansatz anwenden
 
 Zu den wichtigsten Zielen von APIs zählt die effiziente Anbindung von Konsumenten an die Schnittstelle des Betreibers.
-Das Design sollte auf die Anforderungen der Konsumenten fokussiert sein und nicht entlang eventuell bestehender Systeme, Use Cases oder Datenbanken. Teilnehmer:innen kennen und verstehen die Ansätze von API First und konsumentengetriebenem API-Design.
+Das Design sollte auf die Anforderungen der Konsumenten fokussiert sein und nicht entlang eventuell bestehender Systeme, Use Cases oder Datenbanken.
+Teilnehmer:innen kennen und verstehen die Ansätze von API First und konsumentengetriebenem API-Design.
 
 [[LZ-4-3]]
 ==== LZ 4-3: Offenheit und Erweiterbarkeit als wichtige Aspekte für die Weiterentwicklung von APIs interpretieren
@@ -32,24 +32,56 @@ Teilnehmer:innen erlangen ein Verständnis für verschiedene Aspekte der Version
 ==== LZ 4-5: Good Practices für gelungenes API Design kennen
 
 Teilnehmer:innen lernen bewährte und verbreitete Ansätze für das Design von HTTP APIs kennen und verstehen die Vorteile und Herausforderungen.
-
-Hierzu zählen u. a.:
+Hierzu zählen u.a.:
 
 * URL-Pfade
 * korrekte Verwendung von HTTP-Methoden oder Operationen für häufig benötigte Funktionalität wie Suchen, Filtern oder Sortieren
-* Formatvorschläge wie JSON:API
+* Formatvorschläge wie JSON:API oder HAL
 * Problem Details for HTTP APIs (RFC 9457)
-* API Design Style Guides <<geewax>>
+* API Design Style Guides
 
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-4-1]]
-==== LG 4-1: TBD
-tbd.
+==== LG 4-1: Understand the Significance of API Design
+
+Participants understand why careful API design is important and which influence it has on usability, maintenance, evolution, and adoption.
 
 [[LG-4-2]]
-==== LG 4-2: TBD
-tbd.
+==== LG 4-2: Use the "outside-in" Approach for API Design
+
+One of the most important goals of APIs is to efficiently connect consumers with the provider's interface.
+API design should be focused on the needs of the consumers.
+It shouldn't be based on existing systems, existing use cases, or databases.
+Participants know and understand the approaches of API First and consumer-oriented API design.
+
+[[LG-4-3]]
+==== LG 4-3: Understand Openness and Extensibility as Important Aspects for API Evolution
+
+Participants understand Postel's law, the concepts of forward and backward compatibility, and the importance of these concepts for the evolution of APIs.
+Participants also understand the consequences for API implementation in strong and statically typed languages.
+
+[[LG-4-4]]
+==== LG 4-4: Understand API Versioning
+
+Participants gain knowledge for various aspects of versioning and how these are applied during the lifecycle of an API product. The following concepts are known:
+
+* Compatibility and the difference between forward and backward compatibility
+* Version identification in general and semantic versioning as a specific model for version identification
+* Different ways of version identification for APIs (for example, domain name, URI path, HTTP header, payload-based)
+
+[[LG-4-5]]
+==== LG 4-5: Know Good Practices for API Design
+
+Participants learn about established and widely used aspects for API design and understand their advantages and challenges.
+These aspects include:
+
+* URL paths
+* Using correct HTTP methods or operations for frequently needed functionality such as searching, filtering, or sorting
+* Proposed formats such as JSON:API or HAL
+* Problem Details for HTTP APIs (RFC 9457)
+* API Design Style Guides
+
 // end::EN[]

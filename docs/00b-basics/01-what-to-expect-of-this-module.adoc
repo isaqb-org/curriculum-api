@@ -8,11 +8,18 @@ Das Modul betrachtet die verschiedenen Arten, wie APIs Wert erzeugen: Als techni
 Im Rahmen dieses Moduls sprechen wir bei APIs immer von Netzwerk-basierten Schnittstellen, also nicht von lokalen Programmierschnittstellen.
 
 Neben dem Schwerpunkt auf technischem Themen werden auch strategische Aspekte behandelt wie die Wertschöpfung und die Verwendungen von APIs als Team-Kollaboration im Unternehmen. Damit eignet sich das Modul gut, um sich dem Thema APIs mit einer weiteren Perspektive als dem rein technischen Blick zu nähern.
+
 // end::DE[]
 
 // tag::EN[]
 === What does the module “{curriculum-short}” convey?
 
-The module presents {curriculum-short} to the participants …
-At the end of the module, the participants know … and are able to …
+Application Programming Interfaces, or APIs, enable the use of digital services via programmable interfaces. Their use has increased significantly over the last 20 years. From a software architecture perspective, APIs are relevant from both a producer and consumer point of view: Software components should ideally be understood as reusable products; APIs help to make a software component easily reusable. Today, more and more services are available via APIs. As a consumer of these services, it is easier to concentrate on core tasks and outsource other tasks to external components.
+
+The module looks at the different ways in which APIs create value: as technical interfaces that allow different components to communicate with each other; as organisational interfaces that allow different teams to develop their respective components with fewer interdependencies; and as business-oriented building blocks that allow the organisation to develop new services faster and more effectively.
+
+In this module, we always refer to APIs as network-based interfaces, i.e. not as local programming interfaces.
+
+In addition to the focus on technical topics, strategic aspects such as value creation and the use of APIs as team collaboration in the company are also covered. The module is therefore well suited to approaching the topic of APIs from a broader perspective than a purely technical one.
+
 // end::EN[]

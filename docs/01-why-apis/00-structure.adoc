@@ -8,7 +8,7 @@
 // end::DE[]
 
 // tag::EN[]
-== Why APIs are important
+== Why APIs are Important
 // end::EN[]
 
 

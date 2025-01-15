@@ -25,10 +25,23 @@ Teilnehmer:innen können mit einigen dieser Tools praktisch arbeiten und versteh
 
 // tag::EN[]
 [[LG-6-1]]
-==== LG 6-1: TBD
-tbd.
+==== LG 6-1: Understand the API Lifecycle
+
+Participants understand the various stages of the development cycle of an API product and the typical tasks that are performed throughout these stages.
+Participants understand the various stages of planning, requirements analysis, design, prototyping, development, testing, quality assurance, deployment, publication, operations, and maintenance, and how to improve an API product in an iterative way.
+Participants also now the different lifecycle stages of an API such as prototype, production, deprecation, and sunsetting.
 
 [[LG-6-2]]
-==== LG 6-2: TBD
-tbd.
+==== LG 6-2: Manage APIs as Products
+
+APIs are often used in loosely coupled scenarios and for this reason it makes sense to manage them as products.
+Participants understand what it means to manage an API as a product.
+API product management starts with focus on a set of consumers, deals with questions of usability, includes feedback, and also handles questions of deprecation and how to provide alternatives.
+
+[[LG-6-3]]
+==== LG 6-3: Know API Lifecycle Tooling
+
+Participants know typical tools that are used throughout the API lifecycle. These tools support producers as well as consumers and include functionality such as linting, testing (e.g., contract testing) and mocking, and operations (API gateways).
+Participants gain practical knowledge of some of these tools and understand how they fit into the bigger picture of API lifecycle tooling.
+
 // end::EN[]

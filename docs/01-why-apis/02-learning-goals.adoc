@@ -21,6 +21,19 @@ Unterschiedliche Ansätze zur Systemintegration sind den Teilnehmer:innen bekann
 
 // tag::EN[]
 [[LG-1-1]]
-==== LG 1-1: The is the first learning goal, in category xy
-tbd.
+==== LG 1-1: Understand APIs in the Context of Software Development
+
+Participants understand APIs in the context of programming, computer networks, distributed systems, and software architecture.
+They understand the development from local APIs to network-based APIs and the current API landscape in the overall context.
+
+[[LG-1-2]]
+==== LG 1-2: Compare different Styles and Concepts of Integration
+
+Different approaches for systems integration are known to participants and can be compared and contrasted, specifically:
+
+* Integration through a shared database
+* File-based systems integration
+* Integration through synchronous communications, for example RPC (Remote Procedure Call)
+* Integration through asynchronous communications, for example message queues
+
 // end::EN[]

@@ -16,10 +16,14 @@ Teilnehmer:innen verstehen, wie HTTPS, HTTP-Authentisierung, OAuth und OpenID Co
 
 // tag::EN[]
 [[LG-7-2]]
-==== LG 7-2: TBD
-tbd.
+==== LG 7-2: Understand Communications Security Fundamentals
+
+Participants understand the foundations of communications security and are able to relate them to technologies such as TCP, HTTP, and TLS.
+Participants understand the relevance of secure communications, even in the case of internal interfaces.
 
 [[LG-7-2]]
-==== LG 7-2: TBD
-tbd.
+==== LG 7-2: Understand Security Technologies for APIs
+
+Participants understand HTTPS, HTTP authentication, OAuth, and OpenID Connect, how they relate and differ, and how these technologies help when it comes to securing APIs.
+
 // end::EN[]

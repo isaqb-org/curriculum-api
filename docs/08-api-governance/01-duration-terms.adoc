@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: 60 Min. | Übungszeit: 0 Min.
+| Dauer: 60 Min. | Übungszeit: 30 Min.
 |===
 
 === Begriffe und Konzepte
@@ -11,10 +11,11 @@ Internal Developer Platform (IDP), API Plattform, Business Plattform, API Guidel
 
 // tag::EN[]
 |===
-| Duration: 60 min | Practice time: 0 min
+| Duration: 60 min | Practice time: 30 min
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+
+Internal developer platform (IDP), API platform, business platform, API guidelines, API design platform, self service
 
 // end::EN[]

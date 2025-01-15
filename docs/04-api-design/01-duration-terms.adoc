@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Design von APIs, API First, konsumentengetriebenes API-Design, Postel's Law, Forward und Backward Compatibility, Versionierung und Lebenszyklus von API Produkten, JSON:API, API Design Style Guides
+Design von APIs, API First, konsumentengetriebenes API-Design, Postel's Law, Forward und Backward Compatibility, Versionierung und Lebenszyklus von API Produkten, JSON:API, HAL, API Design Style Guides
 
 // end::DE[]
 
@@ -14,5 +14,6 @@ Design von APIs, API First, konsumentengetriebenes API-Design, Postel's Law, For
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+API design, API First, consumer-driven API design, Postel's Law, Forward and backward compatibility, Versioning and lifecycle of API products, JSON:API, HAL, API design style guides
+
 // end::EN[]
