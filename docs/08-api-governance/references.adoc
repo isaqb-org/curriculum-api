@@ -1,6 +1,6 @@
 === {references}
 
-<<hohpe>>, <<medjaoui>>
+<<fishman>>, <<hohpe>>, <<medjaoui>>
 
 // tag::DE[]
 // silence asciidoctor warnings
