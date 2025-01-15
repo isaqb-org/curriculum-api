@@ -15,13 +15,11 @@ This section contains references that are cited in the curriculum.
 
 - [[[api-business-models,API Business Models]]] "ProgrammableWeb's 2020 Guide to API Business Models", ProgrammableWeb, May 2020. https://www.mulesoft.com/sites/default/files/cmm_files/2020_Guide_to_API_Business_Models.pdf
 
-<<<<<<< HEAD
 - [[[asyncapi,AsyncAPI Specification]]] AsyncAPI Specification. https://www.asyncapi.com/docs/reference
-=======
+
 **B**
 
 - [[[ball,Ball 2022]]] Corey Ball, "Hacking APIs: Breaking Web Application Programming Interfaces", No Starch Press, 2022.
->>>>>>> 0bc8bb1 (Fixed book references)
 
 **F**
 
