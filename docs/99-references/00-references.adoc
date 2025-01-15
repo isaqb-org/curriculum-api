@@ -39,6 +39,8 @@ This section contains references that are cited in the curriculum.
 
 - [[[hohpe,Hohpe 2024]]] Gregor Hohpe, "Platform Strategy: Innovation Through Harmonization", 2024
 
+- [[[http-problem,HTTP Problem Details]]] Mark Nottingham, Erik Wilde, and Sanjay Dalal, "Problem Details for HTTP APIs", Internet Proposed Standard RFC 9457, July 2023
+
 **J**
 
 - [[[json,JSON]]] Tim Bray, "The JavaScript Object Notation (JSON) Data Interchange Format", Internet Standard RFC 8259, December 2017
