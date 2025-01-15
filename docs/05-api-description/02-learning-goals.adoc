@@ -47,7 +47,7 @@ Participants understand OpenAPI as a description language that is specialized fo
 
 Participants understand the main elements of an OpenAPI description and how to use these for describing concrete APIs.
 
-* Resourcen (Paths)
+* Resources (Paths)
 * Interactions (Operations)
 * Representations
 * Mechanisms such as Tags, Security, Components, and Webhooks

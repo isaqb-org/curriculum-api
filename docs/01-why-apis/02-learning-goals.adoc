@@ -29,7 +29,7 @@ They understand the development from local APIs to network-based APIs and the cu
 [[LG-1-2]]
 ==== LG 1-2: Comparing different Styles and Concepts of Integration
 
-Different approaches for systems integration are kow to participants and can be compared and contrasted, specifically:
+Different approaches for systems integration are known to participants and can be compared and contrasted, specifically:
 
 * Integration through a shared database
 * File-based systems integration
