@@ -1,6 +1,6 @@
 === {references}
 
-<<api-business-models>>
+<<api-business-models>>, <<goyal>>
 
 // tag::DE[]
 // silence asciidoctor warnings
