@@ -15,6 +15,10 @@ This section contains references that are cited in the curriculum.
 
 - [[[api-business-models,API Business Models]]] "ProgrammableWeb's 2020 Guide to API Business Models", ProgrammableWeb, May 2020. https://www.mulesoft.com/sites/default/files/cmm_files/2020_Guide_to_API_Business_Models.pdf
 
+**F**
+
+- [[[fishman,Fishman and McLarty 2024]]] Stephen Fishman and Matt McLarty, "Unbundling the Enterprise: APIs, Optionality, and the Science of Happy Accidents", IT Revolution, 2024
+
 **G**
 
 - [[[geewax,Geewax 2021]]] JJ Geewax, "API Design Patterns", Manning Publications, 2021
@@ -25,6 +29,8 @@ This section contains references that are cited in the curriculum.
 
 - [[[higginbotham,Higginbotham 2021]]] James Higginbotham, "Principles of Web API Design: Delivering Value with APIs and Microservices", Addison-Wesley, 2021
 
+- [[[hohpe,Hohpe 2024]]] Gregor Hohpe, "Platform Strategy: Innovation Through Harmonization", 2024
+
 - [[[http-problem,HTTP Problem Details]]] Mark Nottingham, Erik Wilde, and Sanjay Dalal, "Problem Details for HTTP APIs", Internet Proposed Standard RFC 9457, July 2023
 
 **J**
@@ -34,6 +40,10 @@ This section contains references that are cited in the curriculum.
 **L**
 
 - [[[lauret,Lauret 2019]]] Arnaud Lauret, "The Design of Web APIs", Manning Publications, 2019
+
+**M**
+
+- [[[medjaoui,Medjaoui et al. 2019]]] Mehdi Medjaoui, Erik Wilde, Ronnie Mitra, and Mike Amundsen, "Continuous API Management", O'Reilly, 2nd Edition, October 2021
 
 **N**
 
