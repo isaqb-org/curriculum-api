@@ -4,7 +4,7 @@
 [[LZ-4-1]]
 ==== LZ 4-1: Bedeutung von API Design verstehen
 
-Teilnehmer:innen verstehen, weshalb ein gewissenhaftes Design von API-Schnittstellen von großer Bedeutung ist und welchen Einfluss dies auf die Nutzbarkeit, Wartung, Weiterentwicklung und Verbreitung haben wird.
+Teilnehmer:innen verstehen, weshalb ein gewissenhaftes Design von API-Schnittstellen von großer Bedeutung ist und welchen Einfluss dies auf die Nutzbarkeit, Wartung, Weiterentwicklung und Verbreitung haben wird. Teilnehmer:innen verstehen, dass sich Anbieter und Konsument:innen ohne zentrale Kontrolle weiterentwickeln können, und welche Herausforderungen daraus resultieren.
 
 [[LZ-4-2]]
 ==== LZ 4-2: API Design als "Outside-in" Ansatz anwenden
@@ -16,7 +16,7 @@ Teilnehmer:innen kennen und verstehen die Ansätze von API First und konsumenten
 [[LZ-4-3]]
 ==== LZ 4-3: Offenheit und Erweiterbarkeit als wichtige Aspekte für die Weiterentwicklung von APIs interpretieren
 
-Teilnehmer:innen kennen Postel's Law, die Bedeutung von Forward und Backward Compatibility und welchen Einfluss diese auf die Möglichkeit der Weiterentwicklung von APIs haben.
+Teilnehmer:innen kennen lose Kopplung, Postel's Law, die Bedeutung von Forward und Backward Compatibility und welchen Einfluss diese auf die Möglichkeit der Weiterentwicklung von APIs haben.
 Darüber hinaus erfahren Teilnehmer:innen, welche Konsequenzen dies für die Implementierung von APIs und deren Clients in streng und statisch typisierten Programmiersprachen hat.
 
 [[LZ-4-4]]
@@ -47,7 +47,7 @@ Hierzu zählen u.a.:
 [[LG-4-1]]
 ==== LG 4-1: Understand the Significance of API Design
 
-Participants understand why careful API design is important and which influence it has on usability, maintenance, evolution, and adoption.
+Participants understand why careful API design is important and which influence it has on usability, maintenance, evolution, and adoption. Participants understand that providers and consumers may evolve without centralized control and what the resulting challenges are.
 
 [[LG-4-2]]
 ==== LG 4-2: Use the "outside-in" Approach for API Design
@@ -60,7 +60,7 @@ Participants know and understand the approaches of API First and consumer-orient
 [[LG-4-3]]
 ==== LG 4-3: Understand Openness and Extensibility as Important Aspects for API Evolution
 
-Participants understand Postel's law, the concepts of forward and backward compatibility, and the importance of these concepts for the evolution of APIs.
+Participants understand loose coupling, Postel's law, the concepts of forward and backward compatibility, and the importance of these concepts for the evolution of APIs.
 Participants also understand the consequences for API implementation in strong and statically typed languages.
 
 [[LG-4-4]]

@@ -11,7 +11,7 @@ Teilnehmer:innen verstehen den Nutzen von API-Beschreibungen und kennen die Ziel
 
 Teilnehmer:innen verstehen OpenAPI als eine auf HTTP APIs spezialisierte Beschreibungssprache.
 Sie kennen die Geschichte von OpenAPI und wie sich die verschiedenen Versionen entwickelt haben.
-Teilnehmer:innen wissen, wie sich OpenAPI zur Codegenerierung auf der Anbieter- oder Konsumentenseite verwenden lässt.
+Teilnehmer:innen wissen, wie sich OpenAPI zur Codegenerierung auf der Anbieter- oder Konsumentenseite verwenden lässt, und welche Risiken diese Praxis hat. 
 Die generellen Strukturen von JSON und YAML sind bekannt.
 
 [[LZ-5-3]]
@@ -45,7 +45,7 @@ Participants understand the value of API descriptions and understand the various
 [[LG-5-2]]
 ==== LG 5-2: Understand OpenAPI as a Description Language for HTTP APIs
 
-Participants understand OpenAPI as a description language that is specialized for HTTP-based APIs. They understand the history of OpenAPI and how the various versions evolved. Participants understand how to use OpenAPI for code generation both on the provider side and on the consumer side. The overall structure of JSON and YAML is understood.
+Participants understand OpenAPI as a description language that is specialized for HTTP-based APIs. They understand the history of OpenAPI and how the various versions evolved. Participants understand how to use OpenAPI for code generation both on the provider side and on the consumer side, and that this practice has some risks. The overall structure of JSON and YAML is understood.
 
 [[LG-5-3]]
 ==== LG 5-3: Understand OpenAPI's Structure
