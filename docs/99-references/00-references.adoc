@@ -24,7 +24,6 @@ This section contains references that are cited in the curriculum.
 - [[[higginbotham,Higginbotham 2021]]] James Higginbotham, "Principles of Web API Design: Delivering Value with APIs and Microservices", Addison-Wesley, 2021
 
 - [[[hohpe-woolf,Hohpe and Woolf 2003]]] Gregor Hohpe and Bobby Woolf, "Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions", Addison-Wesley, October 2003
-English edition by 
 
 **L**
 
