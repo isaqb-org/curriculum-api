@@ -33,7 +33,7 @@ This section contains references that are cited in the curriculum.
 
 - [[[medjaoui,Medjaoui et al. 2019]]] Mehdi Medjaoui, Erik Wilde, Ronnie Mitra, and Mike Amundsen, "Continuous API Management", O'Reilly, 2nd Edition, October 2021
 
-- [[[fishman,Fishman and McLarty 2024]]] Mehdi Medjaoui, Erik Wilde, Ronnie Mitra, and Mike Amundsen, "Unbundling the Enterprise: APIs, Optionality, and the Science of Happy Accidents", IT Revolution, 2024
+- [[[fishman,Fishman and McLarty 2024]]] Stephen Fishman and Matt McLarty, "Unbundling the Enterprise: APIs, Optionality, and the Science of Happy Accidents", IT Revolution, 2024
 
 **Z**
 
