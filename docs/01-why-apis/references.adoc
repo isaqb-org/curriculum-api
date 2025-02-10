@@ -1,6 +1,6 @@
 === {references}
 
-<<bass>>, <<bachmann>>, <<hohpe-woolf>>, <<kruchten>>, <<starke>>, <<fishman>>
+<<hohpe-woolf>>
 
 // tag::DE[]
 // silence asciidoctor warnings

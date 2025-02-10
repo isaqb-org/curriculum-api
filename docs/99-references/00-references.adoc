@@ -15,6 +15,10 @@ This section contains references that are cited in the curriculum.
 
 - [[[api-business-models,API Business Models]]] "ProgrammableWeb's 2020 Guide to API Business Models", ProgrammableWeb, May 2020. https://www.mulesoft.com/sites/default/files/cmm_files/2020_Guide_to_API_Business_Models.pdf
 
+**B**
+
+- [[[ball,Ball 2022]]] Corey Ball, "Hacking APIs: Breaking Web Application Programming Interfaces", No Starch Press, 2022.
+
 **F**
 
 - [[[fishman,Fishman and McLarty 2024]]] Stephen Fishman and Matt McLarty, "Unbundling the Enterprise: APIs, Optionality, and the Science of Happy Accidents", IT Revolution, 2024
@@ -47,9 +51,19 @@ This section contains references that are cited in the curriculum.
 
 - [[[medjaoui,Medjaoui et al. 2019]]] Mehdi Medjaoui, Erik Wilde, Ronnie Mitra, and Mike Amundsen, "Continuous API Management", O'Reilly, 2nd Edition, October 2021
 
+- [[[madden,Madden 2020]]] Neil Madden, "API Security in Action", Manning Publications, 2020
+
 **N**
 
 - [[[nwaiwu,Nwaiwu 2024]]] Ikenna Nwaiwu, "Automating API Delivery: APIOps with OpenAPI", Manning Publications, July 2024
+
+**P**
+
+- [[[porcello,Porcello 2018]]] Eve Porcello, "Learning GraphQL: Declarative Data Fetching for Modern Web Apps", O'Reilly, 2018
+
+**R**
+
+- [[[richardson,Richardson et al. 2013]]] Leonard Richardson, "RESTful Web APIs: Services for a Changing World", O'Reilly, 2013
 
 **Z**
 

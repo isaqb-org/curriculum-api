@@ -1,5 +1,7 @@
 === {references}
 
+<<ball>> <<madden>>
+
 // tag::DE[]
 // silence asciidoctor warnings
 // end::DE[]
