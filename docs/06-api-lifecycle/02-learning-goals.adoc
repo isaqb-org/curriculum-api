@@ -29,7 +29,7 @@ Teilnehmer:innen können mit einigen dieser Tools praktisch arbeiten und versteh
 
 Participants understand the various stages of the development cycle of an API product and the typical tasks that are performed throughout these stages.
 Participants understand the various stages of planning, requirements analysis, design, prototyping, development, testing, quality assurance, deployment, publication, operations, and maintenance, and how to improve an API product in an iterative way.
-Participants also now the different lifecycle stages of an API such as prototype, production, deprecation, and sunsetting.
+Participants also know the different lifecycle stages of an API such as prototype, production, deprecation, and sunsetting.
 
 [[LG-6-2]]
 ==== LG 6-2: Manage APIs as Products
