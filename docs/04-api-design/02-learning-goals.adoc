@@ -36,6 +36,7 @@ Hierzu zählen u.a.:
 
 * URL-Pfade
 * korrekte Verwendung von HTTP-Methoden oder Operationen für häufig benötigte Funktionalität wie Suchen, Filtern oder Sortieren
+* Caching zur Performance-Verbesserung von APIs
 * Formatvorschläge wie JSON:API oder HAL
 * Problem Details for HTTP APIs (RFC 9457)
 * API Design Style Guides
@@ -80,6 +81,7 @@ These aspects include:
 
 * URL paths
 * Using correct HTTP methods or operations for frequently needed functionality such as searching, filtering, or sorting
+* Caching as a way to improve API performance
 * Proposed formats such as JSON:API or HAL
 * Problem Details for HTTP APIs (RFC 9457)
 * API Design Style Guides
