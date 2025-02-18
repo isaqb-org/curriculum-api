@@ -56,7 +56,7 @@ Participants understand the motivation for API guidelines. They understand the g
 [[LG-8-3]]
 ==== LG 8-3: Establish and Manage API Guidelines
 
-Participants know some well-known examples of API guidelines by specific organizations. They also know good practices for managing and evolving API guidelines. Participants understand API guidelines as a living document that is managed in participatory ways which document actual practices (as opposed to describing an aspirational goal state).
+Participants know some examples of API guidelines by specific organizations. They also know good practices for managing and evolving API guidelines. Participants understand API guidelines as a living document that is managed in participatory ways which document actual practices.
 
 [[LG-8-4]]
 ==== LG 8-4: Use APIs as Team Interfaces
