@@ -59,7 +59,7 @@ This section contains references that are cited in the curriculum.
 
 **O**
 
-- [[[owasp-api-security,OWASP API Security Top 10]]] "OWASP API Security Top 10 - 2023", Open Worldwide Application Security Project, 2023. https://owasp.org/API-Security/editions/2023/en/0x00-header/
+- [[[owasp-api-security,OWASP API Security Top 10]]] "OWASP API Security Project", Open Worldwide Application Security Project. https://owasp.org/www-project-api-security/
 
 **P**
 
