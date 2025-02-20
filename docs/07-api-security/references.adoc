@@ -1,6 +1,6 @@
 === {references}
 
-<<ball>> <<madden>>
+<<ball>> <<madden>> <<owasp-api-security>>
 
 // tag::DE[]
 // silence asciidoctor warnings

@@ -57,6 +57,10 @@ This section contains references that are cited in the curriculum.
 
 - [[[nwaiwu,Nwaiwu 2024]]] Ikenna Nwaiwu, "Automating API Delivery: APIOps with OpenAPI", Manning Publications, July 2024
 
+**O**
+
+- [[[owasp-api-security,OWASP API Security Top 10]]] "OWASP API Security Project", Open Worldwide Application Security Project. https://owasp.org/www-project-api-security/
+
 **P**
 
 - [[[porcello,Porcello 2018]]] Eve Porcello, "Learning GraphQL: Declarative Data Fetching for Modern Web Apps", O'Reilly, 2018

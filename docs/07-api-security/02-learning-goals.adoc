@@ -12,6 +12,12 @@ Sie haben ein Bewusstsein für die Notwendigkeit sicherer Kommunikation - auch b
 
 Teilnehmer:innen verstehen, wie HTTPS, HTTP-Authentisierung, OAuth und OpenID Connect funktionieren, inwiefern diese sich unterscheiden und wie die Technologien bei der Absicherung von APIs helfen.
 
+[[LZ-7-3]]
+==== LZ 7-3: OWASP API Security Top 10 kennen
+
+Teilnehmer:innen kennen die OWASP API Security Top 10 und verstehen die darin beschriebenen häufigsten Sicherheitsprobleme von APIs.
+
+
 // end::DE[]
 
 // tag::EN[]
@@ -25,5 +31,10 @@ Participants understand the relevance of secure communications, even in the case
 ==== LG 7-2: Understand Security Technologies for APIs
 
 Participants understand HTTPS, HTTP authentication, OAuth, and OpenID Connect, how they relate and differ, and how these technologies help when it comes to securing APIs.
+
+[[LG-7-3]]
+==== LG 7-3: Understand OWASP API Security Top 10
+
+Participants know the OWASP API Security Top 10 and understand the most common security issues of APIs.
 
 // end::EN[]
