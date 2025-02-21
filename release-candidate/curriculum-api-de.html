@@ -1878,8 +1878,8 @@ h2 {
 <div id="header">
 <h1>Curriculum für<br><br>Certified Professional for<br>Software Architecture (CPSA)<sup>&#174;</sup><br><em>Advanced Level</em>: <br> Modul<br>API<br><br>Application Programming Interfaces</h1>
 <div class="details">
-<span id="revnumber"> 2025.1-RC3-DE,</span>
-<span id="revdate">20250115</span>
+<span id="revnumber"> 2025.1-RC4-DE,</span>
+<span id="revdate">20250221</span>
 </div>
 <div id="toc" class="toc2">
 <div id="toctitle">Inhaltsverzeichnis</div>
@@ -2081,6 +2081,9 @@ Der Einfachheit halber wird iSAQB e. V. im Folgenden ohne die Verwendung dieser 
 </li>
 <li>
 <p><a href="#LZ-7-2">LZ 7-2: Relevante Technologien im API-Umfeld verstehen</a></p>
+</li>
+<li>
+<p><a href="#LZ-7-3">LZ 7-3: OWASP API Security Top 10 kennen</a></p>
 </li>
 <li>
 <p><a href="#LZ-8-1">LZ 8-1: Verschiedene Plattform-Begriffe vergleichen</a></p>
@@ -2401,7 +2404,7 @@ Die Entwicklung von lokalen APIs zu Netzwerk-basierten APIs und die aktuelle API
 <div class="sect2">
 <h3 id="_referenzen">1.3. Referenzen</h3>
 <div class="paragraph">
-<p><a href="#bass">[bass]</a>, <a href="#bachmann">[bachmann]</a>, <a href="#kruchten">[kruchten]</a>, <a href="#starke">[starke]</a></p>
+<p><a href="#fishman">[Fishman and McLarty 2024]</a>, <a href="#hohpe-woolf">[Hohpe and Woolf 2003]</a></p>
 </div>
 <div style="page-break-after: always;"></div>
 </div>
@@ -2474,7 +2477,7 @@ Die Entwicklung von lokalen APIs zu Netzwerk-basierten APIs und die aktuelle API
 <div class="sect2">
 <h3 id="_referenzen_2">2.3. Referenzen</h3>
 <div class="paragraph">
-<p><a href="#api-business-models">[API Business Models]</a></p>
+<p><a href="#api-business-models">[API Business Models]</a>, <a href="#goyal">[Goyal 2023]</a></p>
 </div>
 <div style="page-break-after: always;"></div>
 </div>
@@ -2560,7 +2563,7 @@ Die Entwicklung von lokalen APIs zu Netzwerk-basierten APIs und die aktuelle API
 <div class="sect2">
 <h3 id="_referenzen_3">3.3. Referenzen</h3>
 <div class="paragraph">
-<p><a href="#hargis">[hargis]</a>, <a href="#starke">[starke]</a></p>
+<p><a href="#hohpe-woolf">[Hohpe and Woolf 2003]</a>, <a href="#porcello">[Porcello 2018]</a>, <a href="#richardson">[Richardson et al. 2013]</a></p>
 </div>
 <div style="page-break-after: always;"></div>
 </div>
@@ -2584,7 +2587,7 @@ Die Entwicklung von lokalen APIs zu Netzwerk-basierten APIs und die aktuelle API
 <div class="sect2">
 <h3 id="_begriffe_und_konzepte_4">4.1. Begriffe und Konzepte</h3>
 <div class="paragraph">
-<p>Design von APIs, API First, konsumentengetriebenes API-Design, Postel&#8217;s Law, Forward und Backward Compatibility, Versionierung und Lebenszyklus von API Produkten, JSON:API, HAL, API Design Style Guides</p>
+<p>Design von APIs, API First, konsumentengetriebenes API-Design, Postel&#8217;s Law, Forward und Backward Compatibility, Versionierung und Lebenszyklus von API Produkten, JSON:API, HAL, API Design Style Guides, HTTP, HTTP Caching</p>
 </div>
 </div>
 <div class="sect2">
@@ -2592,7 +2595,7 @@ Die Entwicklung von lokalen APIs zu Netzwerk-basierten APIs und die aktuelle API
 <div class="sect3">
 <h4 id="LZ-4-1">LZ 4-1: Bedeutung von API Design verstehen</h4>
 <div class="paragraph">
-<p>Teilnehmer:innen verstehen, weshalb ein gewissenhaftes Design von API-Schnittstellen von großer Bedeutung ist und welchen Einfluss dies auf die Nutzbarkeit, Wartung, Weiterentwicklung und Verbreitung haben wird.</p>
+<p>Teilnehmer:innen verstehen, weshalb ein gewissenhaftes Design von API-Schnittstellen von großer Bedeutung ist und welchen Einfluss dies auf die Nutzbarkeit, Wartung, Weiterentwicklung und Verbreitung haben wird. Teilnehmer:innen verstehen, dass sich Anbieter und Konsument:innen ohne zentrale Kontrolle weiterentwickeln können, und welche Herausforderungen daraus resultieren.</p>
 </div>
 </div>
 <div class="sect3">
@@ -2606,7 +2609,7 @@ Teilnehmer:innen kennen und verstehen die Ansätze von API First und konsumenten
 <div class="sect3">
 <h4 id="LZ-4-3">LZ 4-3: Offenheit und Erweiterbarkeit als wichtige Aspekte für die Weiterentwicklung von APIs interpretieren</h4>
 <div class="paragraph">
-<p>Teilnehmer:innen kennen Postel&#8217;s Law, die Bedeutung von Forward und Backward Compatibility und welchen Einfluss diese auf die Möglichkeit der Weiterentwicklung von APIs haben.
+<p>Teilnehmer:innen kennen lose Kopplung, Postel&#8217;s Law, die Bedeutung von Forward und Backward Compatibility und welchen Einfluss diese auf die Möglichkeit der Weiterentwicklung von APIs haben.
 Darüber hinaus erfahren Teilnehmer:innen, welche Konsequenzen dies für die Implementierung von APIs und deren Clients in streng und statisch typisierten Programmiersprachen hat.</p>
 </div>
 </div>
@@ -2644,6 +2647,9 @@ Hierzu zählen u.a.:</p>
 <p>korrekte Verwendung von HTTP-Methoden oder Operationen für häufig benötigte Funktionalität wie Suchen, Filtern oder Sortieren</p>
 </li>
 <li>
+<p>Caching zur Performance-Verbesserung von APIs</p>
+</li>
+<li>
 <p>Formatvorschläge wie JSON:API oder HAL</p>
 </li>
 <li>
@@ -2659,7 +2665,7 @@ Hierzu zählen u.a.:</p>
 <div class="sect2">
 <h3 id="_referenzen_4">4.3. Referenzen</h3>
 <div class="paragraph">
-<p><a href="#geewax">[Geewax 2021]</a>, <a href="#zimmermann">[Zimmermann et al. 2022]</a>, <a href="#lauret">[Lauret 2019]</a>, <a href="#amundsen">[Amundsen 2020]</a>, <a href="#higginbotham">[Higginbotham 2021]</a></p>
+<p><a href="#amundsen">[Amundsen 2020]</a>, <a href="#geewax">[Geewax 2021]</a>, <a href="#higginbotham">[Higginbotham 2021]</a>, <a href="#http-problem">[HTTP Problem Details]</a>, <a href="#json">[JSON]</a>, <a href="#lauret">[Lauret 2019]</a>, <a href="#zimmermann">[Zimmermann et al. 2022]</a></p>
 </div>
 <div style="page-break-after: always;"></div>
 </div>
@@ -2699,7 +2705,7 @@ Hierzu zählen u.a.:</p>
 <div class="paragraph">
 <p>Teilnehmer:innen verstehen OpenAPI als eine auf HTTP APIs spezialisierte Beschreibungssprache.
 Sie kennen die Geschichte von OpenAPI und wie sich die verschiedenen Versionen entwickelt haben.
-Teilnehmer:innen wissen, wie sich OpenAPI zur Codegenerierung auf der Anbieter- oder Konsumentenseite verwenden lässt.
+Teilnehmer:innen wissen, wie sich OpenAPI zur Codegenerierung auf der Anbieter- oder Konsumentenseite verwenden lässt, und welche Risiken diese Praxis hat.
 Die generellen Strukturen von JSON und YAML sind bekannt.</p>
 </div>
 </div>
@@ -2750,6 +2756,9 @@ Die generellen Strukturen von JSON und YAML sind bekannt.</p>
 </div>
 <div class="sect2">
 <h3 id="_referenzen_5">5.3. Referenzen</h3>
+<div class="paragraph">
+<p><a href="#asyncapi">[AsyncAPI Specification]</a>, <a href="#graphql">[GraphQL Specification]</a>, <a href="#grpc">[gRPC Specification]</a>, <a href="#openapi">[OpenAPI Specification]</a>, <a href="#ponelat">[Ponelat and Rosenstock 2022]</a></p>
+</div>
 <div style="page-break-after: always;"></div>
 </div>
 </div>
@@ -2803,6 +2812,9 @@ Teilnehmer:innen können mit einigen dieser Tools praktisch arbeiten und versteh
 </div>
 <div class="sect2">
 <h3 id="_referenzen_6">6.3. Referenzen</h3>
+<div class="paragraph">
+<p><a href="#nwaiwu">[Nwaiwu 2024]</a></p>
+</div>
 <div style="page-break-after: always;"></div>
 </div>
 </div>
@@ -2843,9 +2855,18 @@ Sie haben ein Bewusstsein für die Notwendigkeit sicherer Kommunikation - auch b
 <p>Teilnehmer:innen verstehen, wie HTTPS, HTTP-Authentisierung, OAuth und OpenID Connect funktionieren, inwiefern diese sich unterscheiden und wie die Technologien bei der Absicherung von APIs helfen.</p>
 </div>
 </div>
+<div class="sect3">
+<h4 id="LZ-7-3">LZ 7-3: OWASP API Security Top 10 kennen</h4>
+<div class="paragraph">
+<p>Teilnehmer:innen kennen die OWASP API Security Top 10 und verstehen die darin beschriebenen häufigsten Sicherheitsprobleme von APIs.</p>
+</div>
+</div>
 </div>
 <div class="sect2">
 <h3 id="_referenzen_7">7.3. Referenzen</h3>
+<div class="paragraph">
+<p><a href="#ball">[Ball 2022]</a>, <a href="#madden">[Madden 2020]</a>, <a href="#owasp-api-security">[OWASP API Security Top 10]</a></p>
+</div>
 <div style="page-break-after: always;"></div>
 </div>
 </div>
@@ -2923,6 +2944,9 @@ Dies sind der Konsum von Diensten (X-a-a-S Modell) sowie das Anbieten von Dienst
 </div>
 <div class="sect2">
 <h3 id="_referenzen_8">8.3. Referenzen</h3>
+<div class="paragraph">
+<p><a href="#fishman">[Fishman and McLarty 2024]</a>, <a href="#hohpe">[Hohpe 2024]</a>, <a href="#medjaoui">[Medjaoui et al. 2019]</a></p>
+</div>
 <div style="page-break-after: always;"></div>
 </div>
 </div>
@@ -2939,10 +2963,33 @@ Dies sind der Konsum von Diensten (X-a-a-S Modell) sowie das Anbieten von Dienst
 <div class="ulist bibliography">
 <ul class="bibliography">
 <li>
-<p><a id="amundsen"></a>[Amundsen 2020] Mike Amundsen, "Design and Build Great Web APIs: Robust, Reliable, and Resilient", Pragmatic, 2020.</p>
+<p><a id="amundsen"></a>[Amundsen 2020] Mike Amundsen, "Design and Build Great Web APIs: Robust, Reliable, and Resilient", Pragmatic, 2020</p>
 </li>
 <li>
 <p><a id="api-business-models"></a>[API Business Models] "ProgrammableWeb&#8217;s 2020 Guide to API Business Models", ProgrammableWeb, May 2020. <a href="https://www.mulesoft.com/sites/default/files/cmm_files/2020_Guide_to_API_Business_Models.pdf" class="bare">https://www.mulesoft.com/sites/default/files/cmm_files/2020_Guide_to_API_Business_Models.pdf</a></p>
+</li>
+<li>
+<p><a id="asyncapi"></a>[AsyncAPI Specification] AsyncAPI Specification. <a href="https://www.asyncapi.com/docs/reference" class="bare">https://www.asyncapi.com/docs/reference</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>B</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="ball"></a>[Ball 2022] Corey Ball, "Hacking APIs: Breaking Web Application Programming Interfaces", No Starch Press, 2022</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>F</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="fishman"></a>[Fishman and McLarty 2024] Stephen Fishman and Matt McLarty, "Unbundling the Enterprise: APIs, Optionality, and the Science of Happy Accidents", IT Revolution, 2024</p>
 </li>
 </ul>
 </div>
@@ -2954,6 +3001,15 @@ Dies sind der Konsum von Diensten (X-a-a-S Modell) sowie das Anbieten von Dienst
 <li>
 <p><a id="geewax"></a>[Geewax 2021] JJ Geewax, "API Design Patterns", Manning Publications, 2021</p>
 </li>
+<li>
+<p><a id="goyal"></a>[Goyal 2023] Deepa Goyal, "API Analytics for Product Managers", Packt Publishing, 2023</p>
+</li>
+<li>
+<p><a id="graphql"></a>[GraphQL Specification] GraphQL Specification. <a href="https://spec.graphql.org/" class="bare">https://spec.graphql.org/</a></p>
+</li>
+<li>
+<p><a id="grpc"></a>[gRPC Specification] gRPC Specification. <a href="https://grpc.io/docs/" class="bare">https://grpc.io/docs/</a></p>
+</li>
 </ul>
 </div>
 <div class="paragraph">
@@ -2964,6 +3020,25 @@ Dies sind der Konsum von Diensten (X-a-a-S Modell) sowie das Anbieten von Dienst
 <li>
 <p><a id="higginbotham"></a>[Higginbotham 2021] James Higginbotham, "Principles of Web API Design: Delivering Value with APIs and Microservices", Addison-Wesley, 2021</p>
 </li>
+<li>
+<p><a id="hohpe"></a>[Hohpe 2024] Gregor Hohpe, "Platform Strategy: Innovation Through Harmonization", 2024</p>
+</li>
+<li>
+<p><a id="hohpe-woolf"></a>[Hohpe and Woolf 2003] Gregor Hohpe and Bobby Woolf, "Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions", Addison-Wesley, October 2003</p>
+</li>
+<li>
+<p><a id="http-problem"></a>[HTTP Problem Details] Mark Nottingham, Erik Wilde, and Sanjay Dalal, "Problem Details for HTTP APIs", Internet Proposed Standard RFC 9457, July 2023</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>J</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="json"></a>[JSON] Tim Bray, "The JavaScript Object Notation (JSON) Data Interchange Format", Internet Standard RFC 8259, December 2017</p>
+</li>
 </ul>
 </div>
 <div class="paragraph">
@@ -2973,6 +3048,65 @@ Dies sind der Konsum von Diensten (X-a-a-S Modell) sowie das Anbieten von Dienst
 <ul class="bibliography">
 <li>
 <p><a id="lauret"></a>[Lauret 2019] Arnaud Lauret, "The Design of Web APIs", Manning Publications, 2019</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>M</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="medjaoui"></a>[Medjaoui et al. 2019] Mehdi Medjaoui, Erik Wilde, Ronnie Mitra, and Mike Amundsen, "Continuous API Management", O&#8217;Reilly, 2nd Edition, October 2021</p>
+</li>
+<li>
+<p><a id="madden"></a>[Madden 2020] Neil Madden, "API Security in Action", Manning Publications, 2020</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>N</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="nwaiwu"></a>[Nwaiwu 2024] Ikenna Nwaiwu, "Automating API Delivery: APIOps with OpenAPI", Manning Publications, July 2024</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>O</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="openapi"></a>[OpenAPI Specification] OpenAPI Specification. <a href="https://spec.openapis.org/oas/latest.html" class="bare">https://spec.openapis.org/oas/latest.html</a></p>
+</li>
+<li>
+<p><a id="owasp-api-security"></a>[OWASP API Security Top 10] "OWASP API Security Project", Open Worldwide Application Security Project. <a href="https://owasp.org/www-project-api-security/" class="bare">https://owasp.org/www-project-api-security/</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>P</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="ponelat"></a>[Ponelat and Rosenstock 2022] Joshua S. Ponelat and Lukas L. Rosenstock, "Designing APIs with Swagger and OpenAPI", Manning Publications, 2022</p>
+</li>
+<li>
+<p><a id="porcello"></a>[Porcello 2018] Eve Porcello, "Learning GraphQL: Declarative Data Fetching for Modern Web Apps", O&#8217;Reilly, 2018</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>R</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="richardson"></a>[Richardson et al. 2013] Leonard Richardson, "RESTful Web APIs: Services for a Changing World", O&#8217;Reilly, 2013</p>
 </li>
 </ul>
 </div>
@@ -2991,8 +3125,8 @@ Dies sind der Konsum von Diensten (X-a-a-S Modell) sowie das Anbieten von Dienst
 </div>
 <div id="footer">
 <div id="footer-text">
- 2025.1-RC3-DE<br>
-Last updated 2025-01-15 11:22:14 UTC
+ 2025.1-RC4-DE<br>
+Last updated 2025-02-21 16:50:04 UTC
 </div>
 </div>
 </body>

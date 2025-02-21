@@ -1878,8 +1878,8 @@ h2 {
 <div id="header">
 <h1>Curriculum for<br><br>Certified Professional for<br>Software Architecture (CPSA)<sup>&#174;</sup><br><em>Advanced Level</em>: <br> Module<br>API<br><br>Application Programming Interfaces</h1>
 <div class="details">
-<span id="revnumber"> 2025.1-RC3-EN,</span>
-<span id="revdate">20250115</span>
+<span id="revnumber"> 2025.1-RC4-EN,</span>
+<span id="revdate">20250221</span>
 </div>
 <div id="toc" class="toc2">
 <div id="toctitle">Table of Contents</div>
@@ -2074,10 +2074,13 @@ For the purpose of simplicity, iSAQB e. V. shall hereafter be referred to as iSA
 <p><a href="#LG-6-3">LG 6-3: Know API Lifecycle Tooling</a></p>
 </li>
 <li>
-<p><a href="#LG-7-2">LG 7-2: Understand Communications Security Fundamentals</a></p>
+<p><a href="#LG-7-1">LG 7-1: Understand Communications Security Fundamentals</a></p>
 </li>
 <li>
 <p><a href="#LG-7-2">LG 7-2: Understand Security Technologies for APIs</a></p>
+</li>
+<li>
+<p><a href="#LG-7-3">LG 7-3: Understand OWASP API Security Top 10</a></p>
 </li>
 <li>
 <p><a href="#LG-8-1">LG 8-1: Compare Various Notions of Platform</a></p>
@@ -2398,7 +2401,7 @@ They understand the development from local APIs to network-based APIs and the cu
 <div class="sect2">
 <h3 id="_references">1.3. References</h3>
 <div class="paragraph">
-<p><a href="#bass">[bass]</a>, <a href="#bachmann">[bachmann]</a>, <a href="#kruchten">[kruchten]</a>, <a href="#starke">[starke]</a></p>
+<p><a href="#fishman">[Fishman and McLarty 2024]</a>, <a href="#hohpe-woolf">[Hohpe and Woolf 2003]</a></p>
 </div>
 <div style="page-break-after: always;"></div>
 </div>
@@ -2471,7 +2474,7 @@ They understand the development from local APIs to network-based APIs and the cu
 <div class="sect2">
 <h3 id="_references_2">2.3. References</h3>
 <div class="paragraph">
-<p><a href="#api-business-models">[API Business Models]</a></p>
+<p><a href="#api-business-models">[API Business Models]</a>, <a href="#goyal">[Goyal 2023]</a></p>
 </div>
 <div style="page-break-after: always;"></div>
 </div>
@@ -2557,7 +2560,7 @@ They understand the development from local APIs to network-based APIs and the cu
 <div class="sect2">
 <h3 id="_references_3">3.3. References</h3>
 <div class="paragraph">
-<p><a href="#hargis">[hargis]</a>, <a href="#starke">[starke]</a></p>
+<p><a href="#hohpe-woolf">[Hohpe and Woolf 2003]</a>, <a href="#porcello">[Porcello 2018]</a>, <a href="#richardson">[Richardson et al. 2013]</a></p>
 </div>
 <div style="page-break-after: always;"></div>
 </div>
@@ -2581,7 +2584,7 @@ They understand the development from local APIs to network-based APIs and the cu
 <div class="sect2">
 <h3 id="_terms_and_principles_4">4.1. Terms and Principles</h3>
 <div class="paragraph">
-<p>API design, API First, consumer-driven API design, Postel&#8217;s Law, Forward and backward compatibility, Versioning and lifecycle of API products, JSON:API, HAL, API design style guides</p>
+<p>API design, API First, consumer-driven API design, Postel&#8217;s Law, Forward and backward compatibility, Versioning and lifecycle of API products, JSON:API, HAL, API design style guides, HTTP, HTTP Caching</p>
 </div>
 </div>
 <div class="sect2">
@@ -2589,7 +2592,7 @@ They understand the development from local APIs to network-based APIs and the cu
 <div class="sect3">
 <h4 id="LG-4-1">LG 4-1: Understand the Significance of API Design</h4>
 <div class="paragraph">
-<p>Participants understand why careful API design is important and which influence it has on usability, maintenance, evolution, and adoption.</p>
+<p>Participants understand why careful API design is important and which influence it has on usability, maintenance, evolution, and adoption. Participants understand that providers and consumers may evolve without centralized control and what the resulting challenges are.</p>
 </div>
 </div>
 <div class="sect3">
@@ -2604,7 +2607,7 @@ Participants know and understand the approaches of API First and consumer-orient
 <div class="sect3">
 <h4 id="LG-4-3">LG 4-3: Understand Openness and Extensibility as Important Aspects for API Evolution</h4>
 <div class="paragraph">
-<p>Participants understand Postel&#8217;s law, the concepts of forward and backward compatibility, and the importance of these concepts for the evolution of APIs.
+<p>Participants understand loose coupling, Postel&#8217;s law, the concepts of forward and backward compatibility, and the importance of these concepts for the evolution of APIs.
 Participants also understand the consequences for API implementation in strong and statically typed languages.</p>
 </div>
 </div>
@@ -2642,6 +2645,9 @@ These aspects include:</p>
 <p>Using correct HTTP methods or operations for frequently needed functionality such as searching, filtering, or sorting</p>
 </li>
 <li>
+<p>Caching as a way to improve API performance</p>
+</li>
+<li>
 <p>Proposed formats such as JSON:API or HAL</p>
 </li>
 <li>
@@ -2657,7 +2663,7 @@ These aspects include:</p>
 <div class="sect2">
 <h3 id="_references_4">4.3. References</h3>
 <div class="paragraph">
-<p><a href="#geewax">[Geewax 2021]</a>, <a href="#zimmermann">[Zimmermann et al. 2022]</a>, <a href="#lauret">[Lauret 2019]</a>, <a href="#amundsen">[Amundsen 2020]</a>, <a href="#higginbotham">[Higginbotham 2021]</a></p>
+<p><a href="#amundsen">[Amundsen 2020]</a>, <a href="#geewax">[Geewax 2021]</a>, <a href="#higginbotham">[Higginbotham 2021]</a>, <a href="#http-problem">[HTTP Problem Details]</a>, <a href="#json">[JSON]</a>, <a href="#lauret">[Lauret 2019]</a>, <a href="#zimmermann">[Zimmermann et al. 2022]</a></p>
 </div>
 <div style="page-break-after: always;"></div>
 </div>
@@ -2695,7 +2701,7 @@ These aspects include:</p>
 <div class="sect3">
 <h4 id="LG-5-2">LG 5-2: Understand OpenAPI as a Description Language for HTTP APIs</h4>
 <div class="paragraph">
-<p>Participants understand OpenAPI as a description language that is specialized for HTTP-based APIs. They understand the history of OpenAPI and how the various versions evolved. Participants understand how to use OpenAPI for code generation both on the provider side and on the consumer side. The overall structure of JSON and YAML is understood.</p>
+<p>Participants understand OpenAPI as a description language that is specialized for HTTP-based APIs. They understand the history of OpenAPI and how the various versions evolved. Participants understand how to use OpenAPI for code generation both on the provider side and on the consumer side, and that this practice has some risks. The overall structure of JSON and YAML is understood.</p>
 </div>
 </div>
 <div class="sect3">
@@ -2729,6 +2735,9 @@ These aspects include:</p>
 </div>
 <div class="sect2">
 <h3 id="_references_5">5.3. References</h3>
+<div class="paragraph">
+<p><a href="#asyncapi">[AsyncAPI Specification]</a>, <a href="#graphql">[GraphQL Specification]</a>, <a href="#grpc">[gRPC Specification]</a>, <a href="#openapi">[OpenAPI Specification]</a>, <a href="#ponelat">[Ponelat and Rosenstock 2022]</a></p>
+</div>
 <div style="page-break-after: always;"></div>
 </div>
 </div>
@@ -2761,7 +2770,7 @@ These aspects include:</p>
 <div class="paragraph">
 <p>Participants understand the various stages of the development cycle of an API product and the typical tasks that are performed throughout these stages.
 Participants understand the various stages of planning, requirements analysis, design, prototyping, development, testing, quality assurance, deployment, publication, operations, and maintenance, and how to improve an API product in an iterative way.
-Participants also now the different lifecycle stages of an API such as prototype, production, deprecation, and sunsetting.</p>
+Participants also know the different lifecycle stages of an API such as prototype, production, deprecation, and sunsetting.</p>
 </div>
 </div>
 <div class="sect3">
@@ -2782,6 +2791,9 @@ Participants gain practical knowledge of some of these tools and understand how 
 </div>
 <div class="sect2">
 <h3 id="_references_6">6.3. References</h3>
+<div class="paragraph">
+<p><a href="#nwaiwu">[Nwaiwu 2024]</a></p>
+</div>
 <div style="page-break-after: always;"></div>
 </div>
 </div>
@@ -2810,7 +2822,7 @@ Participants gain practical knowledge of some of these tools and understand how 
 <div class="sect2">
 <h3 id="_learning_goals_7">7.2. Learning Goals</h3>
 <div class="sect3">
-<h4 id="LG-7-2">LG 7-2: Understand Communications Security Fundamentals</h4>
+<h4 id="LG-7-1">LG 7-1: Understand Communications Security Fundamentals</h4>
 <div class="paragraph">
 <p>Participants understand the foundations of communications security and are able to relate them to technologies such as TCP, HTTP, and TLS.
 Participants understand the relevance of secure communications, even in the case of internal interfaces.</p>
@@ -2822,9 +2834,18 @@ Participants understand the relevance of secure communications, even in the case
 <p>Participants understand HTTPS, HTTP authentication, OAuth, and OpenID Connect, how they relate and differ, and how these technologies help when it comes to securing APIs.</p>
 </div>
 </div>
+<div class="sect3">
+<h4 id="LG-7-3">LG 7-3: Understand OWASP API Security Top 10</h4>
+<div class="paragraph">
+<p>Participants know the OWASP API Security Top 10 and understand the most common security issues of APIs.</p>
+</div>
+</div>
 </div>
 <div class="sect2">
 <h3 id="_references_7">7.3. References</h3>
+<div class="paragraph">
+<p><a href="#ball">[Ball 2022]</a>, <a href="#madden">[Madden 2020]</a>, <a href="#owasp-api-security">[OWASP API Security Top 10]</a></p>
+</div>
 <div style="page-break-after: always;"></div>
 </div>
 </div>
@@ -2883,7 +2904,7 @@ Participants understand the relevance of secure communications, even in the case
 <div class="sect3">
 <h4 id="LG-8-3">LG 8-3: Establish and Manage API Guidelines</h4>
 <div class="paragraph">
-<p>Participants know some well-known examples of API guidelines by specific organizations. They also know good practices for managing and evolving API guidelines. Participants understand API guidelines as a living document that is managed in participatory ways which document actual practices (as opposed to describing an aspirational goal state).</p>
+<p>Participants know some examples of API guidelines by specific organizations. They also know good practices for managing and evolving API guidelines. Participants understand API guidelines as a living document that is managed in participatory ways which document actual practices.</p>
 </div>
 </div>
 <div class="sect3">
@@ -2895,6 +2916,9 @@ Participants understand the relevance of secure communications, even in the case
 </div>
 <div class="sect2">
 <h3 id="_references_8">8.3. References</h3>
+<div class="paragraph">
+<p><a href="#fishman">[Fishman and McLarty 2024]</a>, <a href="#hohpe">[Hohpe 2024]</a>, <a href="#medjaoui">[Medjaoui et al. 2019]</a></p>
+</div>
 <div style="page-break-after: always;"></div>
 </div>
 </div>
@@ -2911,10 +2935,33 @@ Participants understand the relevance of secure communications, even in the case
 <div class="ulist bibliography">
 <ul class="bibliography">
 <li>
-<p><a id="amundsen"></a>[Amundsen 2020] Mike Amundsen, "Design and Build Great Web APIs: Robust, Reliable, and Resilient", Pragmatic, 2020.</p>
+<p><a id="amundsen"></a>[Amundsen 2020] Mike Amundsen, "Design and Build Great Web APIs: Robust, Reliable, and Resilient", Pragmatic, 2020</p>
 </li>
 <li>
 <p><a id="api-business-models"></a>[API Business Models] "ProgrammableWeb&#8217;s 2020 Guide to API Business Models", ProgrammableWeb, May 2020. <a href="https://www.mulesoft.com/sites/default/files/cmm_files/2020_Guide_to_API_Business_Models.pdf" class="bare">https://www.mulesoft.com/sites/default/files/cmm_files/2020_Guide_to_API_Business_Models.pdf</a></p>
+</li>
+<li>
+<p><a id="asyncapi"></a>[AsyncAPI Specification] AsyncAPI Specification. <a href="https://www.asyncapi.com/docs/reference" class="bare">https://www.asyncapi.com/docs/reference</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>B</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="ball"></a>[Ball 2022] Corey Ball, "Hacking APIs: Breaking Web Application Programming Interfaces", No Starch Press, 2022</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>F</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="fishman"></a>[Fishman and McLarty 2024] Stephen Fishman and Matt McLarty, "Unbundling the Enterprise: APIs, Optionality, and the Science of Happy Accidents", IT Revolution, 2024</p>
 </li>
 </ul>
 </div>
@@ -2926,6 +2973,15 @@ Participants understand the relevance of secure communications, even in the case
 <li>
 <p><a id="geewax"></a>[Geewax 2021] JJ Geewax, "API Design Patterns", Manning Publications, 2021</p>
 </li>
+<li>
+<p><a id="goyal"></a>[Goyal 2023] Deepa Goyal, "API Analytics for Product Managers", Packt Publishing, 2023</p>
+</li>
+<li>
+<p><a id="graphql"></a>[GraphQL Specification] GraphQL Specification. <a href="https://spec.graphql.org/" class="bare">https://spec.graphql.org/</a></p>
+</li>
+<li>
+<p><a id="grpc"></a>[gRPC Specification] gRPC Specification. <a href="https://grpc.io/docs/" class="bare">https://grpc.io/docs/</a></p>
+</li>
 </ul>
 </div>
 <div class="paragraph">
@@ -2936,6 +2992,25 @@ Participants understand the relevance of secure communications, even in the case
 <li>
 <p><a id="higginbotham"></a>[Higginbotham 2021] James Higginbotham, "Principles of Web API Design: Delivering Value with APIs and Microservices", Addison-Wesley, 2021</p>
 </li>
+<li>
+<p><a id="hohpe"></a>[Hohpe 2024] Gregor Hohpe, "Platform Strategy: Innovation Through Harmonization", 2024</p>
+</li>
+<li>
+<p><a id="hohpe-woolf"></a>[Hohpe and Woolf 2003] Gregor Hohpe and Bobby Woolf, "Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions", Addison-Wesley, October 2003</p>
+</li>
+<li>
+<p><a id="http-problem"></a>[HTTP Problem Details] Mark Nottingham, Erik Wilde, and Sanjay Dalal, "Problem Details for HTTP APIs", Internet Proposed Standard RFC 9457, July 2023</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>J</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="json"></a>[JSON] Tim Bray, "The JavaScript Object Notation (JSON) Data Interchange Format", Internet Standard RFC 8259, December 2017</p>
+</li>
 </ul>
 </div>
 <div class="paragraph">
@@ -2945,6 +3020,65 @@ Participants understand the relevance of secure communications, even in the case
 <ul class="bibliography">
 <li>
 <p><a id="lauret"></a>[Lauret 2019] Arnaud Lauret, "The Design of Web APIs", Manning Publications, 2019</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>M</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="medjaoui"></a>[Medjaoui et al. 2019] Mehdi Medjaoui, Erik Wilde, Ronnie Mitra, and Mike Amundsen, "Continuous API Management", O&#8217;Reilly, 2nd Edition, October 2021</p>
+</li>
+<li>
+<p><a id="madden"></a>[Madden 2020] Neil Madden, "API Security in Action", Manning Publications, 2020</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>N</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="nwaiwu"></a>[Nwaiwu 2024] Ikenna Nwaiwu, "Automating API Delivery: APIOps with OpenAPI", Manning Publications, July 2024</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>O</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="openapi"></a>[OpenAPI Specification] OpenAPI Specification. <a href="https://spec.openapis.org/oas/latest.html" class="bare">https://spec.openapis.org/oas/latest.html</a></p>
+</li>
+<li>
+<p><a id="owasp-api-security"></a>[OWASP API Security Top 10] "OWASP API Security Project", Open Worldwide Application Security Project. <a href="https://owasp.org/www-project-api-security/" class="bare">https://owasp.org/www-project-api-security/</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>P</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="ponelat"></a>[Ponelat and Rosenstock 2022] Joshua S. Ponelat and Lukas L. Rosenstock, "Designing APIs with Swagger and OpenAPI", Manning Publications, 2022</p>
+</li>
+<li>
+<p><a id="porcello"></a>[Porcello 2018] Eve Porcello, "Learning GraphQL: Declarative Data Fetching for Modern Web Apps", O&#8217;Reilly, 2018</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>R</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="richardson"></a>[Richardson et al. 2013] Leonard Richardson, "RESTful Web APIs: Services for a Changing World", O&#8217;Reilly, 2013</p>
 </li>
 </ul>
 </div>
@@ -2963,8 +3097,8 @@ Participants understand the relevance of secure communications, even in the case
 </div>
 <div id="footer">
 <div id="footer-text">
- 2025.1-RC3-EN<br>
-Last updated 2025-01-15 11:22:14 UTC
+ 2025.1-RC4-EN<br>
+Last updated 2025-02-21 16:50:04 UTC
 </div>
 </div>
 </body>
