@@ -1,5 +1,7 @@
 === {references}
 
+<<asyncapi>>, <<graphql>>, <<grpc>>, <<openapi>>, <<ponelat>>
+
 // tag::DE[]
 // silence asciidoctor warnings
 // end::DE[]

@@ -15,6 +15,8 @@ This section contains references that are cited in the curriculum.
 
 - [[[api-business-models,API Business Models]]] "ProgrammableWeb's 2020 Guide to API Business Models", ProgrammableWeb, May 2020. https://www.mulesoft.com/sites/default/files/cmm_files/2020_Guide_to_API_Business_Models.pdf
 
+- [[[asyncapi,AsyncAPI Specification]]] AsyncAPI Specification. https://www.asyncapi.com/docs/reference
+
 **B**
 
 - [[[ball,Ball 2022]]] Corey Ball, "Hacking APIs: Breaking Web Application Programming Interfaces", No Starch Press, 2022.
@@ -28,6 +30,10 @@ This section contains references that are cited in the curriculum.
 - [[[geewax,Geewax 2021]]] JJ Geewax, "API Design Patterns", Manning Publications, 2021
 
 - [[[goyal,Goyal 2023]]] Deepa Goyal, "API Analytics for Product Managers", Packt Publishing, 2023
+
+- [[[graphql,GraphQL Specification]]] GraphQL Specification. https://spec.graphql.org/
+
+- [[[grpc,gRPC Specification]]] gRPC Specification. https://grpc.io/docs/
 
 **H**
 
@@ -59,10 +65,13 @@ This section contains references that are cited in the curriculum.
 
 **O**
 
+- [[[openapi,OpenAPI Specification]]] OpenAPI Specification. https://spec.openapis.org/oas/latest.html
+
 - [[[owasp-api-security,OWASP API Security Top 10]]] "OWASP API Security Project", Open Worldwide Application Security Project. https://owasp.org/www-project-api-security/
 
 **P**
 
+- [[[ponelat,Ponelat and Rosenstock 2022]]] Joshua S. Ponelat and Lukas L. Rosenstock, "Designing APIs with Swagger and OpenAPI", Manning Publications, 2022
 - [[[porcello,Porcello 2018]]] Eve Porcello, "Learning GraphQL: Declarative Data Fetching for Modern Web Apps", O'Reilly, 2018
 
 **R**
