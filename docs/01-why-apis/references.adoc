@@ -1,6 +1,6 @@
 === {references}
 
-<<hohpe-woolf>>, <<fishman>>
+<<fishman>>, <<hohpe-woolf>>
 
 // tag::DE[]
 // silence asciidoctor warnings

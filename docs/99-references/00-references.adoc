@@ -11,7 +11,7 @@ This section contains references that are cited in the curriculum.
 
 **A**
 
-- [[[amundsen,Amundsen 2020]]] Mike Amundsen, "Design and Build Great Web APIs: Robust, Reliable, and Resilient", Pragmatic, 2020.
+- [[[amundsen,Amundsen 2020]]] Mike Amundsen, "Design and Build Great Web APIs: Robust, Reliable, and Resilient", Pragmatic, 2020
 
 - [[[api-business-models,API Business Models]]] "ProgrammableWeb's 2020 Guide to API Business Models", ProgrammableWeb, May 2020. https://www.mulesoft.com/sites/default/files/cmm_files/2020_Guide_to_API_Business_Models.pdf
 
@@ -19,7 +19,7 @@ This section contains references that are cited in the curriculum.
 
 **B**
 
-- [[[ball,Ball 2022]]] Corey Ball, "Hacking APIs: Breaking Web Application Programming Interfaces", No Starch Press, 2022.
+- [[[ball,Ball 2022]]] Corey Ball, "Hacking APIs: Breaking Web Application Programming Interfaces", No Starch Press, 2022
 
 **F**
 
@@ -72,6 +72,7 @@ This section contains references that are cited in the curriculum.
 **P**
 
 - [[[ponelat,Ponelat and Rosenstock 2022]]] Joshua S. Ponelat and Lukas L. Rosenstock, "Designing APIs with Swagger and OpenAPI", Manning Publications, 2022
+
 - [[[porcello,Porcello 2018]]] Eve Porcello, "Learning GraphQL: Declarative Data Fetching for Modern Web Apps", O'Reilly, 2018
 
 **R**
