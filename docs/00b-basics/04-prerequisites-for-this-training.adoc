@@ -1,21 +1,21 @@
 // tag::DE[]
 === Voraussetzungen
 
-Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrung mitbringen:
+Teilnehmerinnen und Teilnehmer sollten folgende Kenntnisse und/oder Erfahrung mitbringen:
 
-- Architekten
-- Entwickler
-- andere technisch orientierte Personen, die sich einen umfassenden Überblick über das Thema APIs verschaffen möchten.
+- Arbeit als Architekt:innen oder vergleichbare konzeptionelle oder Management Aufgaben.
+- Arbeit als Entwickler:innen oder vergleichbare technische Aufgaben.
+- Technisch orientierte Personen mit einem Basiswissen IT und Softwarearchitektur, die sich einen umfassenden Überblick über das Thema APIs verschaffen möchten.
 
 // end::DE[]
 
 // tag::EN[]
 === Prerequisites
 
-Participants **should** have the following knowledge and/or experience:
+Participants should have the following knowledge and/or experience:
 
-- Architects
-- Developers
-- other technically orientated people who would like to gain a comprehensive overview of the topic of APIs.
+- Work as an architect or in comparable conceptual or management roles.
+- Work as a developer or in comparable technical roles.
+- Technically oriented professionals with basic knowledge of IT and software architecture who want to gain a comprehensive overview of APIs.
 
 // end::EN[]
