@@ -25,7 +25,10 @@ Teilnehmer:innen haben ein detailliertes Verständnis der möglichen Geschäftsm
 [[LZ-2-4]]
 ==== LZ 2-4: APIs und Digitale Transformation verstehen
 
-Teilnehmer:innen können APIs einordnen in das grössere Bild digitaler Transformation. APIs werden als notwendiger (aber nicht hinreichender) Teil einer digitalen Transformation verstanden, und andere notwendige Aspekte sind ebenfalls bekannt.
+Teilnehmer:innen können APIs einordnen in das grössere Bild digitaler Transformation. APIs werden als notwendiger (aber nicht hinreichender) Teil einer digitalen Transformation verstanden und andere notwendige Aspekte sind ebenfalls bekannt:
+
+- Business-Ebene - neue Kanäle erschaffen, Erkundung neuer Möglichkeiten, größere Offenheit für Experimente und Anpassungen
+- Organisationsebene - Abläufe beschleunigen, Abhängigkeiten zwischen Teams verringern und Bereitstellung einer Plattform, die dabei Teams hilft, effektiver zu arbeiten
 
 // end::DE[]
 
@@ -54,6 +57,9 @@ Participants have a detailed knowledge of the various business models for APIs a
 [[LG-2-4]]
 ==== LG 2-4: Understand APIs and Digital Transformation
 
-Participants know how to fit APIs into the bigger picture of digital transformation. APIs are identified as necessary (but not sufficient) aspect of digital transformation, and other necessary aspects are known as well.
+Participants know how to fit APIs into the bigger picture of digital transformation. APIs are identified as necessary (but not sufficient) aspect of digital transformation, and other necessary aspects are known as well:
+
+- Business level - creating new channels, exploring new opportunities, being more open to experimentation and customization
+- Organizational level - accelerating processes, reducing dependencies between teams and providing a platform that helps teams work more effectively
 
 // end::EN[]
