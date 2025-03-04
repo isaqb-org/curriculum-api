@@ -1,23 +1,5 @@
 # Release Notes
 
-## New in 2025.1-RC4
+## Intial Release 2025.1
 
-- Hopefully the last RC
-- Tweaked/improved descriptions and goals in many places
-- Added OWASP learning goal
-- Added various references to all chapters
-
-## New in 2025.1-RC3
-
-- Many tweaks to the overall text
-- Adjusting times to get from 14h to 12h
-- Adding some references (more are still needed)
-- Creating English version of the current german RC text
-
-## New in 2025.1-RC2
-
-- First version with complete German text for all learning goals
-
-## New in 2025.1-RC0
-
-- Initial Release
+The first version of the new API curriculum for the iSAQB Advanced Level portfolio focuses on the growing importance of Application Programming Interfaces (APIs) in modern software architecture. APIs are explored as technical, organizational, and business-oriented tools that enable communication between components, reduce development dependencies, and accelerate the creation of new services. The module emphasizes network-based APIs (not local interfaces) and covers both technical and strategic aspects, including value creation and team collaboration. This holistic approach ensures a broader understanding of APIs beyond purely technical considerations, making it relevant for architects, developers, and business stakeholders alike.
