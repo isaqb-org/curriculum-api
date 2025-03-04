@@ -5,7 +5,7 @@
 
 === Begriffe und Konzepte
 
-Internal Developer Platform (IDP), API Plattform, Business Plattform, API Guidelines, API Design, Plattform, Self Service
+Internal Developer Platform (IDP), API Plattform, Business Plattform, API Guidelines, API Design Plattform, Self Service
 
 // end::DE[]
 

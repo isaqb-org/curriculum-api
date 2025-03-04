@@ -17,7 +17,7 @@ Teilnehmer:innen können zwischen dem mehr nach innen gerichteten Fokus einer ID
 ==== LZ 8-2: API Guidelines aufstellen
 
 Teilnehmer:innen verstehen die Motivation von API Guidelines.
-Sie kennen die Ziele, um innerhalb eines gewissen Bereiches eine Harmonisierung von API Design und von -Entwicklungspraktiken zu erreichen.
+Sie kennen die Ziele, um innerhalb eines gewissen Bereiches eine Harmonisierung von API Design und -Entwicklungspraktiken zu erreichen.
 Tools zur Unterstützung von API Guidelines wie Linting sind bekannt und die Funktionsweise ist geläufig.
 
 [[LZ-8-3]]
