@@ -25,10 +25,10 @@ Teilnehmer:innen haben ein detailliertes Verständnis der möglichen Geschäftsm
 [[LZ-2-4]]
 ==== LZ 2-4: APIs und Digitale Transformation verstehen
 
-Teilnehmer:innen können APIs einordnen in das grössere Bild digitaler Transformation. APIs werden als notwendiger (aber nicht hinreichender) Teil einer digitalen Transformation verstanden, und andere notwendige Aspekte sind ebenfalls bekannt.
+Teilnehmer:innen können APIs einordnen in das grössere Bild digitaler Transformation. APIs werden als notwendiger (aber nicht hinreichender) Teil einer digitalen Transformation verstanden und andere notwendige Aspekte sind ebenfalls bekannt:
 
-- Es ist auch notwendig, über die Business-Ebene nachzudenken, wo es um neue Kanäle, die Erkundung neuer Möglichkeiten, und eine größere Offenheit für Experimente und Anpassungen geht.
-- Man muss auch an die Organisationsebene denken, wo man schneller werden will, die Abhängigkeiten zwischen Teams verringern will, und eine Plattform bereitstellen will, die Teams hilft, effektiver zu arbeiten.
+- Business-Ebene - neue Kanäle erschaffen, Erkundung neuer Möglichkeiten, größere Offenheit für Experimente und Anpassungen
+- Organisationsebene - Abläufe beschleunigen, Abhängigkeiten zwischen Teams verringern und Bereitstellung einer Plattform, die dabei Teams hilft, effektiver zu arbeiten
 
 // end::DE[]
 
@@ -57,9 +57,9 @@ Participants have a detailed knowledge of the various business models for APIs a
 [[LG-2-4]]
 ==== LG 2-4: Understand APIs and Digital Transformation
 
-Participants know how to fit APIs into the bigger picture of digital transformation. APIs are identified as necessary (but not sufficient) aspect of digital transformation, and other necessary aspects are known as well.
+Participants know how to fit APIs into the bigger picture of digital transformation. APIs are identified as necessary (but not sufficient) aspect of digital transformation, and other necessary aspects are known as well:
 
-- It is also necessary to think about the business level where it's about new channels, exploring new opportunities, and being more open to experimentation and adaptation.
-- It is also necessary to think about the organizational level where you want to move faster, reduce dependencies between teams, and provide a platform that helps teams to be more effective.
+- Business level - creating new channels, exploring new opportunities, being more open to experimentation and customization
+- Organizational level - accelerating processes, reducing dependencies between teams and providing a platform that helps teams work more effectively
 
 // end::EN[]
