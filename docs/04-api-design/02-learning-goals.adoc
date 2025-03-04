@@ -16,7 +16,7 @@ Teilnehmer:innen kennen und verstehen die Ansätze von API First und konsumenten
 [[LZ-4-3]]
 ==== LZ 4-3: Offenheit und Erweiterbarkeit als wichtige Aspekte für die Weiterentwicklung von APIs interpretieren
 
-Teilnehmer:innen kennen lose Kopplung, Postel's Law, die Bedeutung von Forward und Backward Compatibility und welchen Einfluss diese auf die Möglichkeit der Weiterentwicklung von APIs haben.
+Teilnehmer:innen kennen lose Kopplung, Postel's Law, die Bedeutung von Vorwärts- und Rückwärtskompatibilität und welchen Einfluss diese auf die Möglichkeit der Weiterentwicklung von APIs haben.
 Darüber hinaus erfahren Teilnehmer:innen, welche Konsequenzen dies für die Implementierung von APIs und deren Clients in streng und statisch typisierten Programmiersprachen hat.
 
 [[LZ-4-4]]
@@ -24,7 +24,7 @@ Darüber hinaus erfahren Teilnehmer:innen, welche Konsequenzen dies für die Imp
 
 Teilnehmer:innen erlangen ein Verständnis für verschiedene Aspekte der Versionierung und wie sie innerhalb des Lebenszyklus eines API Produkts verwendet werden. Folgende Konzepte sind bekannt:
 
-* Kompatibilität und die Unterscheidung zwischen Rückwärts- und Vorwärtskompatibilität
+* Kompatibilität und die Unterscheidung zwischen Vorwärts- und Rückwärtskompatibilität
 * Versionierungsidentifikation und Semantic Versioning als spezifisches Modell
 * Verschiedene Arten der Versionierungsidentifikation für APIs (z.B. Domain Namen, URI Pfade, HTTP Header, Info im Payload)
 

@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Design von APIs, API First, konsumentengetriebenes API-Design, Postel's Law, Forward und Backward Compatibility, Versionierung und Lebenszyklus von API Produkten, JSON:API, HAL, API Design Style Guides, HTTP, HTTP Caching
+Design von APIs, API First, konsumentengetriebenes API-Design, Postel's Law, Vorwärts- und Rückwärtskompatibilität, Versionierung und Lebenszyklus von API Produkten, JSON:API, HAL, API Design Style Guides, HTTP, HTTP Caching
 
 // end::DE[]
 
