@@ -15,7 +15,7 @@ Teilnehmer:innen wissen, wie sich OpenAPI zur Codegenerierung auf der Anbieter- 
 Die generellen Strukturen von JSON und YAML sind bekannt.
 
 [[LZ-5-3]]
-==== LZ 5-3: Der Aufbau von OpenAPI verstehen
+==== LZ 5-3: Den Aufbau von OpenAPI verstehen
 
 Teilnehmer:innen verstehen die Hauptelemente einer OpenAPI Beschreibung und wie diese für konkrete APIs verwendet werden.
 
