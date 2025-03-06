@@ -3,7 +3,7 @@
 // ====================================================
 
 // tag::DE[]
-== API Lifecycle und API Tooling
+== API-Lifecycle und API-Tooling
 // end::DE[]
 
 // tag::EN[]

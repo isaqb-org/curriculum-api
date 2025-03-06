@@ -5,7 +5,7 @@
 ==== LZ 7-1: Grundlagen von Kommunikationssicherheit kennen
 
 Teilnehmer:innen kennen die Grundlagen von Kommunikationssicherheit und können Technologien wie TCP, HTTP und TLS einordnen.
-Sie haben ein Bewusstsein für die Notwendigkeit sicherer Kommunikation - auch bei unternehmensinternen Schnittstellen.
+Sie haben ein Bewusstsein für die Notwendigkeit sicherer Kommunikation – auch bei unternehmensinternen Schnittstellen.
 
 [[LZ-7-2]]
 ==== LZ 7-2: Relevante Technologien im API-Umfeld verstehen

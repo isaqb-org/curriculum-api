@@ -2,24 +2,24 @@
 
 // tag::DE[]
 [[LZ-6-1]]
-==== LZ 6-1: API Lifecycle verstehen
+==== LZ 6-1: API-Lifecycle verstehen
 
-Teilnehmer:innen kennen verschiedene Schritte des Entwicklungszyklus eines API Produkts und die typischen Aufgaben, die bei diesen Schritten anfallen.
+Teilnehmer:innen kennen verschiedene Schritte des Entwicklungszyklus eines API-Produkts und die typischen Aufgaben, die bei diesen Schritten anfallen.
 Die Aufteilung in Planung und Anforderungsanalyse, Design und Prototyping, Entwicklung, Testing und Qualitätsprüfung, Deployment und Veröffentlichung, Betrieb und Wartung sowie Verbesserung und Iteration sind bekannt.
 Ebenfalls bekannt sind die verschiedenen Lebensphasen eines APIs wie Prototyp, produktiver Betrieb, Deprecation und das Abschalten.
 
 [[LZ-6-2]]
 ==== LZ 6-2: APIs als Produkte verwalten
 
-APIs kommen oft in lose gekoppelten Szenarien zum Einsatz und aus diesem Grund ist es sinnvoll, sie als Produkte zu managen.
+APIs kommen oft in lose gekoppelten Szenarien zum Einsatz. Aus diesem Grund ist es sinnvoll, sie als Produkte zu managen.
 Teilnehmer:innen verstehen, was es bedeutet, ein API als Produkt zu verwalten.
 Dies beginnt beim Zielgruppenfokus, berücksichtigt Fragen der Nutzbarkeit, von Feedback sowie Verbesserung und behandelt auch Fragen von Deprecation und der Bereitstellung von Alternativen.
 
 [[LZ-6-3]]
-==== LZ 6-3: API Lifecycle Tooling kennen
+==== LZ 6-3: API-Lifecycle-Tooling kennen
 
-Teilnehmer:innen kennen typische Tools für den Einsatz im API Lifecycle zur Unterstützung von Produzenten und Konsumenten wie Linting, Testing (z. B. Contract Testing), Mocking sowie Betrieb (API Gateways).
-Teilnehmer:innen können mit einigen dieser Tools praktisch arbeiten und verstehen, sie in das Gesamtbild des API Lifecycle Tooling einzuordnen.
+Teilnehmer:innen kennen typische Tools für den Einsatz im API-Lifecycle zur Unterstützung von Produzenten und Konsumenten wie Linting, Testing (z. B. Contract Testing), Mocking, sowie Betrieb (API-Gateways).
+Teilnehmer:innen können mit einigen dieser Tools praktisch arbeiten und verstehen, sie in das Gesamtbild des API-Lifecycle-Tooling einzuordnen.
 
 // end::DE[]
 
