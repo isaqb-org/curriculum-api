@@ -8,23 +8,23 @@ Teilnehmer:innen kennen die Bereiche, in denen Plattformen verwendet werden.
 Sie verstehen die verschiedenen Begriffe und kennen die Unterschiede sowie das Ineinandergreifen.
 
 * Internal Developer Platform (IDP)
-* API Plattform
-* Business Plattform
+* API-Plattform
+* Business-Plattform
 
 Teilnehmer:innen können zwischen dem mehr nach innen gerichteten Fokus einer IDP und dem sowohl nach innen als auch nach aussen gerichteten Fokus einer API Plattform unterscheiden.
 
 [[LZ-8-2]]
-==== LZ 8-2: API Guidelines aufstellen
+==== LZ 8-2: API-Guidelines aufstellen
 
-Teilnehmer:innen verstehen die Motivation von API Guidelines.
-Sie kennen die Ziele, um innerhalb eines gewissen Bereiches eine Harmonisierung von API Design und -Entwicklungspraktiken zu erreichen.
-Tools zur Unterstützung von API Guidelines wie Linting sind bekannt und die Funktionsweise ist geläufig.
+Teilnehmer:innen verstehen die Motivation von API-Guidelines.
+Sie kennen die Ziele, um innerhalb eines gewissen Bereiches eine Harmonisierung von API-Design und -Entwicklungspraktiken zu erreichen.
+Tools zur Unterstützung von API-Guidelines wie Linting sind bekannt und die Funktionsweise ist geläufig.
 
 [[LZ-8-3]]
-==== LZ 8-3: API Guidelines by Example umsetzen
+==== LZ 8-3: API-Guidelines by Example umsetzen
 
-Die Teilnehmer:innen kennen Beispiele für API Guidelines einiger Organisationen.
-Des Weiteren wissen sie, auf welche Art und Weise API Guidelines entwickelt und gepflegt werden.
+Die Teilnehmer:innen kennen Beispiele für API-Guidelines einiger Organisationen.
+Des Weiteren wissen sie, auf welche Art und Weise API-Guidelines entwickelt und gepflegt werden.
 Sie verstehen es als partizipativ sowie kontinuierlich gepflegtes Dokument von gelebten und unterstützten Praktiken in einer Organisation.
 
 [[LZ-8-4]]
@@ -32,7 +32,7 @@ Sie verstehen es als partizipativ sowie kontinuierlich gepflegtes Dokument von g
 
 Teilnehmer:innen kennen Team Topologies als organisatorisches Modell für effektiv arbeitende Teams.
 Dabei ist der Fokus vor allem darauf gerichtet, an welchen Stellen von Team Topologies der Einsatz von APIs essenziell notwendig ist für die Umsetzung des Modells.
-Dies sind der Konsum von Diensten (X-a-a-S Modell) sowie das Anbieten von Diensten durch Platform Teams, die ihre Plattform im Self Service bereitstellen wollen.
+Dies sind der Konsum von Diensten (X-a-a-S Modell) sowie das Anbieten von Diensten durch Platform-Teams, die ihre Plattform im Self-Service bereitstellen wollen.
 
 // end::DE[]
 
@@ -40,7 +40,7 @@ Dies sind der Konsum von Diensten (X-a-a-S Modell) sowie das Anbieten von Dienst
 [[LG-8-1]]
 ==== LG 8-1: Compare various notions of platform
 
-Participants understand the various areas in which the notion of platforms are being used. They understand how these notions are different and how they complement each other.
+Participants understand the various areas in which notions of platform are used. They understand how these notions are different and how they complement each other.
 
 * Internal developer platform (IDP)
 * API platform

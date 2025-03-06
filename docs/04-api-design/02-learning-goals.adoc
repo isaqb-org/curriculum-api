@@ -2,16 +2,16 @@
 
 // tag::DE[]
 [[LZ-4-1]]
-==== LZ 4-1: Bedeutung von API Design verstehen
+==== LZ 4-1: Bedeutung von API-Design verstehen
 
-Teilnehmer:innen verstehen, weshalb ein gewissenhaftes Design von API-Schnittstellen von großer Bedeutung ist und welchen Einfluss dies auf die Nutzbarkeit, Wartung, Weiterentwicklung und Verbreitung haben wird. Teilnehmer:innen verstehen, dass sich Anbieter und Konsument:innen ohne zentrale Kontrolle weiterentwickeln können, und welche Herausforderungen daraus resultieren.
+Teilnehmer:innen verstehen, weshalb ein gewissenhaftes Design von APIs von großer Bedeutung ist und welchen Einfluss dies auf die Nutzbarkeit, Wartung, Weiterentwicklung und Verbreitung hat. Teilnehmer:innen verstehen, dass sich Anbieter:innen und Konsument:innen ohne zentrale Kontrolle weiterentwickeln können, und welche Herausforderungen daraus resultieren.
 
 [[LZ-4-2]]
-==== LZ 4-2: API Design als "Outside-in" Ansatz anwenden
+==== LZ 4-2: API-Design als "Outside-in"-Ansatz anwenden
 
-Zu den wichtigsten Zielen von APIs zählt die effiziente Anbindung von Konsumenten an die Schnittstelle des Betreibers.
-Das Design sollte auf die Anforderungen der Konsumenten fokussiert sein und nicht entlang eventuell bestehender Systeme, Use Cases oder Datenbanken.
-Teilnehmer:innen kennen und verstehen die Ansätze von API First und konsumentengetriebenem API-Design.
+Zu den wichtigsten Zielen von APIs zählt die effiziente Anbindung von Konsument:innen an die Schnittstelle des Betreibers.
+Das Design sollte auf die Anforderungen der Konsument:innen fokussiert sein und nicht entlang eventuell bestehender Systeme, Use Cases oder Datenbanken.
+Teilnehmer:innen kennen und verstehen die Ansätze von API-First und konsumentengetriebenem API-Design.
 
 [[LZ-4-3]]
 ==== LZ 4-3: Offenheit und Erweiterbarkeit als wichtige Aspekte für die Weiterentwicklung von APIs interpretieren
@@ -22,24 +22,24 @@ Darüber hinaus erfahren Teilnehmer:innen, welche Konsequenzen dies für die Imp
 [[LZ-4-4]]
 ==== LZ 4-4: Versionierung von APIs verstehen
 
-Teilnehmer:innen erlangen ein Verständnis für verschiedene Aspekte der Versionierung und wie sie innerhalb des Lebenszyklus eines API Produkts verwendet werden. Folgende Konzepte sind bekannt:
+Teilnehmer:innen erlangen ein Verständnis für verschiedene Aspekte der Versionierung und wie sie innerhalb des Lebenszyklus eines API-Produkts verwendet werden. Folgende Konzepte sind bekannt:
 
 * Kompatibilität und die Unterscheidung zwischen Vorwärts- und Rückwärtskompatibilität
 * Versionierungsidentifikation und Semantic Versioning als spezifisches Modell
-* Verschiedene Arten der Versionierungsidentifikation für APIs (z.B. Domain Namen, URI Pfade, HTTP Header, Info im Payload)
+* Verschiedene Arten der Versionierungsidentifikation für APIs (z.B. Domain-Namen, URI-Pfade, HTTP-Header, Information im Payload)
 
 [[LZ-4-5]]
-==== LZ 4-5: Good Practices für gelungenes API Design kennen
+==== LZ 4-5: Good Practices für gelungenes API-Design kennen
 
-Teilnehmer:innen lernen bewährte und verbreitete Ansätze für das Design von HTTP APIs kennen und verstehen die Vorteile und Herausforderungen.
+Teilnehmer:innen lernen bewährte und verbreitete Ansätze für das Design von HTTP-APIs kennen und verstehen die Vorteile und Herausforderungen.
 Hierzu zählen u.a.:
 
 * URL-Pfade
-* korrekte Verwendung von HTTP-Methoden oder Operationen für häufig benötigte Funktionalität wie Suchen, Filtern oder Sortieren
+* korrekte Verwendung von HTTP-Methoden oder -Operationen für häufig benötigte Funktionalität wie Suchen, Filtern oder Sortieren
 * Caching zur Performance-Verbesserung von APIs
 * Formatvorschläge wie JSON:API oder HAL
 * Problem Details for HTTP APIs (RFC 9457)
-* API Design Style Guides
+* API-Design-Styleguides
 
 
 // end::DE[]
@@ -67,7 +67,7 @@ Participants also understand the consequences for API implementation in strong a
 [[LG-4-4]]
 ==== LG 4-4: Understand API versioning
 
-Participants gain knowledge for various aspects of versioning and how these are applied during the lifecycle of an API product. The following concepts are known:
+Participants gain knowledge of various aspects of versioning and how these are applied during the lifecycle of an API product. The following concepts are known:
 
 * Compatibility and the difference between forward and backward compatibility
 * Version identification in general and semantic versioning as a specific model for version identification

@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Lokale APIs, Netzwerk-basierte APIs, API Landschaft, Systemintegration
+Lokale APIs, netzwerkbasierte APIs, API Landschaft, Systemintegration
 
 // end::DE[]
 
@@ -14,6 +14,6 @@ Lokale APIs, Netzwerk-basierte APIs, API Landschaft, Systemintegration
 |===
 
 === Terms and Principles
-Local APIs, Network-Based APIs, API landscape, Systems Integration
+local APIs, network-based APIs, API landscape, systems integration
 
 // end::EN[]

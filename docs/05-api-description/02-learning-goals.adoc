@@ -4,20 +4,20 @@
 [[LZ-5-1]]
 ==== LZ 5-1: Wichtigkeit von API-Beschreibungen kennen
 
-Teilnehmer:innen verstehen den Nutzen von API-Beschreibungen und kennen die Zielgruppen. Das Problem des "API Drift" ist bekannt. Sie können das Zusammenspiel von Design, Implementierung, Versionierung, Beschreibung, Versionierung der Beschreibung einordnen und wie diese Dinge im Idealfall sowie in der Realität praktiziert werden.
+Teilnehmer:innen verstehen den Nutzen von API-Beschreibungen und kennen die Zielgruppen. Das Problem des "API Drift" ist bekannt. Sie können das Zusammenspiel von Design, Implementierung, Versionierung, Beschreibung und Versionierung der Beschreibung einordnen und wissen, wie diese Dinge im Idealfall sowie in der Realität praktiziert werden.
 
 [[LZ-5-2]]
-==== LZ 5-2: OpenAPI als Beschreibungssprache für HTTP APIs einordnen
+==== LZ 5-2: OpenAPI als Beschreibungssprache für HTTP-APIs einordnen
 
-Teilnehmer:innen verstehen OpenAPI als eine auf HTTP APIs spezialisierte Beschreibungssprache.
+Teilnehmer:innen verstehen OpenAPI als eine auf HTTP-APIs spezialisierte Beschreibungssprache.
 Sie kennen die Geschichte von OpenAPI und wie sich die verschiedenen Versionen entwickelt haben.
-Teilnehmer:innen wissen, wie sich OpenAPI zur Codegenerierung auf der Anbieter- oder Konsumentenseite verwenden lässt, und welche Risiken diese Praxis hat. 
+Teilnehmer:innen wissen, wie sich OpenAPI zur Codegenerierung auf der Anbieter:innen- oder Konsument:innenseite verwenden lässt, und welche Risiken diese Praxis hat.
 Die generellen Strukturen von JSON und YAML sind bekannt.
 
 [[LZ-5-3]]
 ==== LZ 5-3: Den Aufbau von OpenAPI verstehen
 
-Teilnehmer:innen verstehen die Hauptelemente einer OpenAPI Beschreibung und wie diese für konkrete APIs verwendet werden.
+Teilnehmer:innen verstehen die Hauptelemente einer OpenAPI-Beschreibung und wie diese für konkrete APIs verwendet werden.
 
 * Ressourcen (Paths)
 * Interaktionen (Operations)
@@ -27,7 +27,7 @@ Teilnehmer:innen verstehen die Hauptelemente einer OpenAPI Beschreibung und wie 
 [[LZ-5-4]]
 ==== LZ 5-4: Alternative Beschreibungssprachen kennen
 
-OpenAPI ist spezialisiert auf HTTP APIs. Für andere API-Stile können alternative Beschreibungssprachen mit ähnlichen generellen Zielen verwendet werden. Teilnehmer:innen kennen diese alternativen Beschreibungssprachen und können sie API-Stilen zuordnen.
+OpenAPI ist spezialisiert auf HTTP-APIs. Für andere API-Stile können alternative Beschreibungssprachen mit ähnlichen generellen Zielen verwendet werden. Teilnehmer:innen kennen diese alternativen Beschreibungssprachen und können sie API-Stilen zuordnen.
 
 * gRPC für RPC-orientierte APIs
 * AsyncAPI für Event-orientierte APIs
@@ -40,17 +40,17 @@ OpenAPI ist spezialisiert auf HTTP APIs. Für andere API-Stile können alternati
 [[LG-5-1]]
 ==== LG 5-1: Understand the significance of API descriptions
 
-Participants understand the value of API descriptions and understand the various stakeholders. The problem of "API Drift" is known. Participants understand the relationship between design, implementation, versioning, description, and description versioning, and they understand how these concepts relate ideally and in real-world scenarios.
+Participants understand the value of API descriptions and know the target audience of those descriptions. They also know the problem of "API Drift". Participants understand the relationship between design, implementation, versioning, description, and description versioning, and they understand how these concepts relate ideally and in real-world scenarios.
 
 [[LG-5-2]]
 ==== LG 5-2: Understand OpenAPI as a description language for HTTP APIs
 
-Participants understand OpenAPI as a description language that is specialized for HTTP-based APIs. They understand the history of OpenAPI and how the various versions evolved. Participants understand how to use OpenAPI for code generation both on the provider side and on the consumer side, and that this practice has some risks. The overall structure of JSON and YAML is understood.
+Participants understand OpenAPI as a description language that is specialized for HTTP-based APIs. They understand the history of OpenAPI and how the various versions evolved. Participants understand how to use OpenAPI for code generation both on the provider side and on the consumer side, and that this practice has some risks. They understand the overall structure of JSON and YAML.
 
 [[LG-5-3]]
 ==== LG 5-3: Understand OpenAPI's structure
 
-Participants understand the main elements of an OpenAPI description and how to use these for describing concrete APIs.
+Participants understand the main elements of an OpenAPI description and how to use them to describe APIs.
 
 * Resources (Paths)
 * Interactions (Operations)

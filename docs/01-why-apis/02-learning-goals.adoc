@@ -2,9 +2,9 @@
 
 // tag::DE[]
 [[LZ-1-1]]
-==== LZ 1-1: APIs in die Historie der Software-Entwicklung einordnen
+==== LZ 1-1: APIs in die Historie der Softwareentwicklung einordnen
 
-Teilnehmer:innen können APIs einordnen in die Geschichte der Programmierung, Computernetzwerke, verteilten Systeme und Softwarearchitektur.
+Teilnehmer:innen können APIs in die Geschichte der Programmierung, Computernetzwerke, verteilten Systeme und Softwarearchitektur einordnen.
 Die Entwicklung von lokalen APIs zu netzwerkbasierten APIs und die aktuelle API Landschaft werden in ihrem Gesamtkontext verstanden.
 
 [[LZ-1-2]]

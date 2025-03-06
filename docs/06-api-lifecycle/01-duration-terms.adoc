@@ -5,7 +5,7 @@
 
 === Begriffe und Konzepte
 
-API Lifecycle, API Produkt, Linting, Contract Testing, API Gateway
+API-Lifecycle, API-Produkt, Linting, Contract Testing, API-Gateway
 
 // end::DE[]
 
