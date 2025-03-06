@@ -7,15 +7,15 @@
 Die folgenden API-Stile werden verstanden und ihre Vor- sowie Nachteile können gegeneinander abgewogen werden:
 
 * RPC (Remote Procedure Call)
-* Resourcen-basiert
+* Ressourcen-basiert
 * Hypermedia
 * Query
-* Events & asynchrone Kommunikation
+* Events und asynchrone Kommunikation
 
 [[LZ-3-2]]
-==== LZ 3-2: Populäre API-Technologien ein- und den jeweiligen API-Stilen zuordnen
+==== LZ 3-2: Populäre API-Technologien einordnen und den jeweiligen API-Stilen zuordnen
 
-Teilnehmer:innen können die wichtigsten populären API-Technologien einordnen und kennen den von ihnen implementierten API-Stil, z.B.:
+Teilnehmer:innen können die wichtigsten populären API-Technologien einordnen und kennen den jeweiligen implementierten API-Stil, z.B.:
 
 * gRPC
 * HTTP APIs
@@ -23,9 +23,9 @@ Teilnehmer:innen können die wichtigsten populären API-Technologien einordnen u
 * GraphQL
 
 [[LZ-3-3]]
-==== LZ 3-3: Auswahlkriterien und Konsequenzen von API-Stilen & Technologien kennen
+==== LZ 3-3: Auswahlkriterien und Konsequenzen von API-Stilen und API-Technologien kennen
 
-Teilnehmer:innen erwerben ein Verständnis für Kriterien, wann welche Stile/Technologien besser oder weniger gut passen und welche Konsequenzen die jeweilige Auswahl mit sich bringt.
+Teilnehmer:innen erwerben ein Verständnis für Kriterien, wann welche Stile und Technologien besser oder weniger gut passen, und welche Konsequenzen die jeweilige Auswahl mit sich bringt.
 
 // end::DE[]
 
@@ -33,7 +33,7 @@ Teilnehmer:innen erwerben ein Verständnis für Kriterien, wann welche Stile/Tec
 [[LG-3-1]]
 ==== LG 3-1: Understand fundamental API styles
 
-The following API styles are understood by participants and their advantages and drawbacks can be compared:
+The following API styles are understood by participants and they can balance their advantages against their drawbacks:
 
 * RPC (Remote Procedure Call)
 * Resource-based
@@ -54,6 +54,6 @@ Participants are able to classify the most important API technologies and know w
 [[LG-3-3]]
 ==== LG 3-3: Understand when to use which style and technology and the consequences of that choice
 
-Participants gain knowledge of criteria when certain styles and technologies are a good or not-so-good fit, and which consequences the selection will have.
+Participants gain knowledge of criteria when certain styles and technologies are a good or a bad fit, and which consequences the choice will have.
 
 // end::EN[]

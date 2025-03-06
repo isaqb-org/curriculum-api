@@ -5,7 +5,7 @@
 
 === Begriffe und Konzepte
 
-RPC, Ressource, Hypermedia, Query, Events, asynchrone Kommunikation, gRPC, HTTP APIs, REST, GraphQL
+RPC, Ressource, Hypermedia, Query, Events, asynchrone Kommunikation, gRPC, HTTP-APIs, REST, GraphQL
 
 // end::DE[]
 
