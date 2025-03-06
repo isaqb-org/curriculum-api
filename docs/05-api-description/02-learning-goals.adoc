@@ -11,7 +11,7 @@ Teilnehmer:innen verstehen den Nutzen von API-Beschreibungen und kennen die Ziel
 
 Teilnehmer:innen verstehen OpenAPI als eine auf HTTP-APIs spezialisierte Beschreibungssprache.
 Sie kennen die Geschichte von OpenAPI und wie sich die verschiedenen Versionen entwickelt haben.
-Teilnehmer:innen wissen, wie sich OpenAPI zur Codegenerierung auf der Anbieter:innen- oder Konsument:innenseite verwenden lässt, und welche Risiken diese Praxis hat.
+Teilnehmer:innen wissen, wie sich OpenAPI zur Codegenerierung auf der Anbieter- oder Konsumentenseite verwenden lässt, und welche Risiken diese Praxis hat.
 Die generellen Strukturen von JSON und YAML sind bekannt.
 
 [[LZ-5-3]]

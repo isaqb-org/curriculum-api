@@ -4,13 +4,13 @@
 [[LZ-4-1]]
 ==== LZ 4-1: Bedeutung von API-Design verstehen
 
-Teilnehmer:innen verstehen, weshalb ein gewissenhaftes Design von APIs von großer Bedeutung ist und welchen Einfluss dies auf die Nutzbarkeit, Wartung, Weiterentwicklung und Verbreitung hat. Teilnehmer:innen verstehen, dass sich Anbieter:innen und Konsument:innen ohne zentrale Kontrolle weiterentwickeln können, und welche Herausforderungen daraus resultieren.
+Teilnehmer:innen verstehen, weshalb ein gewissenhaftes Design von APIs von großer Bedeutung ist und welchen Einfluss dies auf die Nutzbarkeit, Wartung, Weiterentwicklung und Verbreitung hat. Teilnehmer:innen verstehen, dass sich Anbieter und Konsument ohne zentrale Kontrolle weiterentwickeln können, und welche Herausforderungen daraus resultieren.
 
 [[LZ-4-2]]
 ==== LZ 4-2: API-Design als "Outside-in"-Ansatz anwenden
 
-Zu den wichtigsten Zielen von APIs zählt die effiziente Anbindung von Konsument:innen an die Schnittstelle des Betreibers.
-Das Design sollte auf die Anforderungen der Konsument:innen fokussiert sein und nicht entlang eventuell bestehender Systeme, Use Cases oder Datenbanken.
+Zu den wichtigsten Zielen von APIs zählt die effiziente Anbindung von Konsumenten an die Schnittstelle des Betreibers.
+Das Design sollte auf die Anforderungen der Konsumenten fokussiert sein und nicht entlang eventuell bestehender Systeme, Use Cases oder Datenbanken.
 Teilnehmer:innen kennen und verstehen die Ansätze von API-First und konsumentengetriebenem API-Design.
 
 [[LZ-4-3]]
