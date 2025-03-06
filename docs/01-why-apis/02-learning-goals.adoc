@@ -4,8 +4,8 @@
 [[LZ-1-1]]
 ==== LZ 1-1: APIs in die Historie der Software-Entwicklung einordnen
 
-Teilnehmer:innen können APIs einordnen in die Geschichte der Programmierung, Computernetzwerke, verteilten Systeme, und Softwarearchitektur.
-Die Entwicklung von lokalen APIs zu Netzwerk-basierten APIs und die aktuelle API Landschaft werden in ihrem Gesamtkontext verstanden.
+Teilnehmer:innen können APIs einordnen in die Geschichte der Programmierung, Computernetzwerke, verteilten Systeme und Softwarearchitektur.
+Die Entwicklung von lokalen APIs zu netzwerkbasierten APIs und die aktuelle API Landschaft werden in ihrem Gesamtkontext verstanden.
 
 [[LZ-1-2]]
 ==== LZ 1-2: Unterschiedliche Integrationsstile und -konzepte vergleichen

@@ -11,8 +11,8 @@ Das Konzept der "API Economy" wird in seiner gesamten Breite verstanden und Teil
 
 Teilnehmer:innen kennen und verstehen die verschiedenen Arten, wie APIs zur Wertschöpfung beitragen können. Die verschiedenen Arten können auf der obersten Ebene unterschieden werden:
 
-- Private APIs die innerhalb einer Organisationen eingesetzt werden
-- Partner APIs die mit etablierten Partnern genutzt werden
+- Private APIs die innerhalb einer Organisation eingesetzt werden
+- Partner-APIs die mit etablierten Partnern genutzt werden
 - Public APIs die als Produkte nach aussen angeboten werden
 
 Teilnehmer:innen verstehen die verschiedenen Optionen innerhalb und Zusammenhänge zwischen diesen Kategorien und den Wert einer übergreifenden API Strategie.
@@ -23,7 +23,7 @@ Teilnehmer:innen verstehen die verschiedenen Optionen innerhalb und Zusammenhän
 Teilnehmer:innen haben ein detailliertes Verständnis der möglichen Geschäftsmodelle von APIs und einiger ausgewählter Beispiele. Ausgehend von den verschiedenen Arten der API Wertschöpfung können Teilnehmer:innen bestehende Geschäftsmodelle analysieren und mit APIs gezielt ergänzen und erweitern.
 
 [[LZ-2-4]]
-==== LZ 2-4: APIs und Digitale Transformation verstehen
+==== LZ 2-4: APIs und digitale Transformation verstehen
 
 Teilnehmer:innen können APIs einordnen in das grössere Bild digitaler Transformation. APIs werden als notwendiger (aber nicht hinreichender) Teil einer digitalen Transformation verstanden und andere notwendige Aspekte sind ebenfalls bekannt:
 

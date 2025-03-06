@@ -19,7 +19,7 @@ Dies beginnt beim Zielgruppenfokus, berücksichtigt Fragen der Nutzbarkeit, von 
 ==== LZ 6-3: API Lifecycle Tooling kennen
 
 Teilnehmer:innen kennen typische Tools für den Einsatz im API Lifecycle zur Unterstützung von Produzenten und Konsumenten wie Linting, Testing (z. B. Contract Testing), Mocking sowie Betrieb (API Gateways).
-Teilnehmer:innen können mit einigen dieser Tools praktisch arbeiten und verstehen sie in das Gesamtbild des API Lifecycle Tooling einzuordnen.
+Teilnehmer:innen können mit einigen dieser Tools praktisch arbeiten und verstehen, sie in das Gesamtbild des API Lifecycle Tooling einzuordnen.
 
 // end::DE[]
 
@@ -41,7 +41,7 @@ API product management starts with focus on a set of consumers, deals with quest
 [[LG-6-3]]
 ==== LG 6-3: Know API Lifecycle Tooling
 
-Participants know typical tools that are used throughout the API lifecycle. These tools support producers as well as consumers and include functionality such as linting, testing (e.g., contract testing) and mocking, and operations (API gateways).
+Participants know typical tools that are used throughout the API lifecycle. These tools support producers as well as consumers and include functionality such as linting, testing (e.g., contract testing), mocking, and operations (API gateways).
 Participants gain practical knowledge of some of these tools and understand how they fit into the bigger picture of API lifecycle tooling.
 
 // end::EN[]
