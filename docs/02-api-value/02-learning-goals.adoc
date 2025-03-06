@@ -7,36 +7,36 @@
 Das Konzept der "API Economy" wird in seiner gesamten Breite verstanden und Teilnehmer:innen können beurteilen, wie ihre Produkte und Aktivitäten dort eingeordnet werden können.
 
 [[LZ-2-2]]
-==== LZ 2-2: Verschiedene Arten der API Wertschöpfung kennen
+==== LZ 2-2: Verschiedene Arten der API-Wertschöpfung kennen
 
 Teilnehmer:innen kennen und verstehen die verschiedenen Arten, wie APIs zur Wertschöpfung beitragen können. Die verschiedenen Arten können auf der obersten Ebene unterschieden werden:
 
-- Private APIs die innerhalb einer Organisation eingesetzt werden
-- Partner-APIs die mit etablierten Partnern genutzt werden
-- Public APIs die als Produkte nach aussen angeboten werden
+- Private APIs, die innerhalb einer Organisation eingesetzt werden
+- Partner-APIs, die mit etablierten Partnern genutzt werden
+- Public APIs, die als Produkte nach außen angeboten werden
 
-Teilnehmer:innen verstehen die verschiedenen Optionen innerhalb und Zusammenhänge zwischen diesen Kategorien und den Wert einer übergreifenden API Strategie.
+Teilnehmer:innen verstehen die verschiedenen Optionen innerhalb und die Zusammenhänge zwischen diesen Kategorien und den Wert einer übergreifenden API-Strategie.
 
 [[LZ-2-3]]
-==== LZ 2-3: API Business Models verstehen
+==== LZ 2-3: API-Geschäftsmodelle verstehen
 
-Teilnehmer:innen haben ein detailliertes Verständnis der möglichen Geschäftsmodelle von APIs und einiger ausgewählter Beispiele. Ausgehend von den verschiedenen Arten der API Wertschöpfung können Teilnehmer:innen bestehende Geschäftsmodelle analysieren und mit APIs gezielt ergänzen und erweitern.
+Teilnehmer:innen haben ein detailliertes Verständnis der möglichen Geschäftsmodelle von APIs und einiger ausgewählter Beispiele. Ausgehend von den verschiedenen Arten der API-Wertschöpfung können Teilnehmer:innen bestehende Geschäftsmodelle analysieren und mit APIs gezielt ergänzen und erweitern.
 
 [[LZ-2-4]]
 ==== LZ 2-4: APIs und digitale Transformation verstehen
 
-Teilnehmer:innen können APIs einordnen in das grössere Bild digitaler Transformation. APIs werden als notwendiger (aber nicht hinreichender) Teil einer digitalen Transformation verstanden und andere notwendige Aspekte sind ebenfalls bekannt:
+Teilnehmer:innen können APIs in das grössere Bild digitaler Transformation einordnen. APIs werden als notwendiger (aber nicht hinreichender) Teil einer digitalen Transformation verstanden. Andere notwendige Aspekte sind ebenfalls bekannt:
 
-- Business-Ebene - neue Kanäle erschaffen, Erkundung neuer Möglichkeiten, größere Offenheit für Experimente und Anpassungen
-- Organisationsebene - Abläufe beschleunigen, Abhängigkeiten zwischen Teams verringern und Bereitstellung einer Plattform, die dabei Teams hilft, effektiver zu arbeiten
+- Business-Ebene: neue Kanäle erschaffen, neue Möglichkeiten erkunden, größere Offenheit für Experimente und Anpassungen zeigen
+- Organisationsebene: Abläufe beschleunigen, Abhängigkeiten zwischen Teams verringern und eine Plattform bereitstellen, die Teams dabei hilft, effektiver zu arbeiten
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-2-1]]
-==== LG 2-1: Understand the "API economy"
+==== LG 2-1: Understand the concept of "API Economy"
 
-Participants understand the broader concept of the "API Economy" and understand how their products and activities fit into it.
+Participants understand the broader concept of "API Economy" and understand how their products and activities fit into it.
 
 [[LG-2-2]]
 ==== LG 2-2: Know various ways of API value creation
@@ -45,21 +45,21 @@ Participants know and understand the various ways in which APIs can help with va
 
 * Private APIs which are used inside an organization
 * Partner APIs which are used with established partners
-* Public APIs which are offered as products to the general public
+* Public APIs which are offered as products to the public
 
 Participants understand the various options inside these categories and the relationships between them. They also understand how a comprehensive API strategy adds value for all of these categories.
 
 [[LG-2-3]]
 ==== LG 2-3: Understand API business models
 
-Participants have a detailed knowledge of the various business models for APIs and know a few specific examples. Starting from these different business models participants understand how to analyze existing business models and how they can be augmented with APIs.
+Participants have a detailed knowledge of the various business models for APIs and know a few specific examples. Starting from these different business models, participants understand how to analyze existing business models and how they can be augmented with APIs.
 
 [[LG-2-4]]
 ==== LG 2-4: Understand APIs and digital transformation
 
-Participants know how to fit APIs into the bigger picture of digital transformation. APIs are identified as necessary (but not sufficient) aspect of digital transformation, and other necessary aspects are known as well:
+Participants know how to fit APIs into the bigger picture of digital transformation. APIs are identified as necessary (but not sufficient) aspect of digital transformation. Other necessary aspects are known as well:
 
-- Business level - creating new channels, exploring new opportunities, being more open to experimentation and customization
-- Organizational level - accelerating processes, reducing dependencies between teams and providing a platform that helps teams work more effectively
+- Business level: creating new channels, exploring new opportunities, being more open to experimentation and customization
+- Organizational level: accelerating processes, reducing dependencies between teams and providing a platform that helps teams work more effectively
 
 // end::EN[]
