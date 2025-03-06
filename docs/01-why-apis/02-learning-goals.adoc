@@ -21,13 +21,13 @@ Unterschiedliche Ansätze zur Systemintegration sind den Teilnehmer:innen bekann
 
 // tag::EN[]
 [[LG-1-1]]
-==== LG 1-1: Understand APIs in the Context of Software Development
+==== LG 1-1: Understand APIs in the context of software development
 
 Participants understand APIs in the context of programming, computer networks, distributed systems, and software architecture.
 They understand the development from local APIs to network-based APIs and the current API landscape in the overall context.
 
 [[LG-1-2]]
-==== LG 1-2: Compare different Styles and Concepts of Integration
+==== LG 1-2: Compare different styles and concepts of integration
 
 Different approaches for systems integration are known to participants and can be compared and contrasted, specifically:
 

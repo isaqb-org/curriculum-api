@@ -31,7 +31,7 @@ Teilnehmer:innen erwerben ein Verständnis für Kriterien, wann welche Stile/Tec
 
 // tag::EN[]
 [[LG-3-1]]
-==== LG 3-1: Understand Fundamental API Styles
+==== LG 3-1: Understand fundamental API styles
 
 The following API styles are understood by participants and their advantages and drawbacks can be compared:
 
@@ -42,7 +42,7 @@ The following API styles are understood by participants and their advantages and
 * Events & asynchronous communications
 
 [[LG-3-2]]
-==== LG 3-2: Understand Popular API Technologies and Associating Them With API Styles
+==== LG 3-2: Understand popular API technologies and associate them with API styles
 
 Participants are able to classify the most important API technologies and know which API style they are implementing, for example:
 
@@ -52,7 +52,7 @@ Participants are able to classify the most important API technologies and know w
 * GraphQL
 
 [[LG-3-3]]
-==== LG 3-3: Understand When to Use Which Style and Technology and the Consequences of That Choice
+==== LG 3-3: Understand when to use which style and technology and the consequences of that choice
 
 Participants gain knowledge of criteria when certain styles and technologies are a good or not-so-good fit, and which consequences the selection will have.
 

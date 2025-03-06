@@ -38,7 +38,7 @@ Dies sind der Konsum von Diensten (X-a-a-S Modell) sowie das Anbieten von Dienst
 
 // tag::EN[]
 [[LG-8-1]]
-==== LG 8-1: Compare Various Notions of Platform
+==== LG 8-1: Compare various notions of platform
 
 Participants understand the various areas in which the notion of platforms are being used. They understand how these notions are different and how they complement each other.
 
@@ -49,17 +49,17 @@ Participants understand the various areas in which the notion of platforms are b
 Participants know how to differentiate between the mostly inward focus of an IDP and the both inwards and outwards directed focus of an API platform.
 
 [[LG-8-2]]
-==== LG 8-2: Understand API Guidelines
+==== LG 8-2: Understand API guidelines
 
 Participants understand the motivation for API guidelines. They understand the goals of creating harmonized practices for both API design and the implementation practices for APIs. Tools for supporting API guidelines such as linting are known and participants understand how they work.
 
 [[LG-8-3]]
-==== LG 8-3: Establish and Manage API Guidelines
+==== LG 8-3: Establish and manage API guidelines
 
 Participants know some examples of API guidelines by specific organizations. They also know good practices for managing and evolving API guidelines. Participants understand API guidelines as a living document that is managed in participatory ways which document actual practices.
 
 [[LG-8-4]]
-==== LG 8-4: Use APIs as Team Interfaces
+==== LG 8-4: Use APIs as team interfaces
 
 Participants know Team Topologies as an organizational model for making teams work more effective. The specific focus is on understanding how APIs are necessary to make the Team Topologies model work. These areas are the consumption of existing services (X-a-a-S model) and the way how platform teams make their platform available in a self-service model.
 
